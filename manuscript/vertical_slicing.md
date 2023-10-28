@@ -1,0 +1,2 @@
+# Vertical (Rebanado de historias)
+

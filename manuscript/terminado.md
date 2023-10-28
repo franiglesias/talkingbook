@@ -1,2 +1,0 @@
-# Terminado (Definición de)
-
