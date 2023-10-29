@@ -1,8 +1,8 @@
-# Qué es y que no es agile
+# Qué es y que no es Agile
 
-Agile no es una metodología, ni un proceso, ni un framework. Creo que hasta es incorrecto decir que es una mentalidad o _mindset_. Quizá podríamos decir que agile es una forma de reflexionar sobre el desarrollo de software, o una filosofía, si lo prefieres.
+Agile no es una metodología, ni un proceso, ni un framework. Creo que hasta es incorrecto decir que es una mentalidad o _mindset_. Quizá podríamos decir que Agile es una forma de reflexionar sobre el desarrollo de software, o una filosofía, si lo prefieres.
 
-Históricamente, podemos pensar que Agile nace con el Manifiesto Agile, pero más bien el Manifiesto es un punto de encuentro para diversos grupos y profesionales preexistentes que habían desarrollado sus propias metodologías y frameworks, como _extreme programming_, _scrum_, _lean_, incluso _DevOps_ podría considerarse agile. Muchos de estos frameworks están inspirados u obtienen ideas de las metodologías _Lean Manufacturing_ o el _Toyota Production System_.
+Históricamente, podemos pensar que Agile nace con el Manifiesto Agile, pero más bien el Manifiesto es un punto de encuentro para diversos grupos y profesionales preexistentes que habían desarrollado sus propias metodologías y frameworks, como _extreme programming_, _scrum_, _lean_, incluso _DevOps_ podría considerarse Agile. Muchos de estos frameworks están inspirados u obtienen ideas de las metodologías _Lean Manufacturing_ o el _Toyota Production System_.
 
 ¿Por qué? Pues porque los equipos de desarrollo de software entendieron que las metodologías clásicas de la ingeniería no funcionaban bien aplicadas al software. 
 
@@ -18,9 +18,9 @@ Esta forma de abordar los proyectos de software puede parecer idílica, pero es 
 
 Lo primero que hay que tener en cuenta es que no es algo que se pueda conseguir de la noche a la mañana. Requiere un proceso de aprendizaje. Requiere hacerse consciente de como trabajas y reflexionar sobre cómo mejorar esa forma de trabajar. Por tanto, requiere una cierta capacidad de autocrítica, individual y grupal.
 
-Es decir: un equipo no se vuelve agile porque le adjudiquemos la etiqueta, o por introducir una serie de prácticas descontextualizadamente. En vez de eso, un equipo aprende a trabajar de forma agile a medida que desarrolla un proyecto.
+Es decir: un equipo no se vuelve Agile porque le adjudiquemos la etiqueta, o por introducir una serie de prácticas descontextualizadamente. En vez de eso, un equipo aprende a trabajar de forma Agile a medida que desarrolla un proyecto.
 
-No existe una receta para ser agile salvo aplicar, quizá, los principios del Manifiesto. Por otro lado, disponemos de frameworks como Scrum, Extreme Programming, Kanban y otros menos conocidos.
+No existe una receta para ser Agile salvo aplicar, quizá, los principios del Manifiesto. Por otro lado, disponemos de frameworks como Scrum, Extreme Programming, Kanban y otros menos conocidos.
 
 Si el manifesto te parece demasiado largo, quédate con esta definición de Allen Holub:
 
