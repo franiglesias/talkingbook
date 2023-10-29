@@ -13,7 +13,7 @@ De hecho, el Manifiesto tampoco dice que tenga que hacerse algo así como una re
 Es Scrum el que prescribe una serie de eventos, cuatro de ellos más conocidos como ceremonias.
 
 * **Sprint**: es el período de tiempo en que se articula la entrega de valor constante.
-* **Planificación de sprint**: la reunión al principio del sprint en donde se deciden en equipo los objetivos y se organiza cómo se van a lograr.
+* **Planificación de sprint**: la reunión al principio del sprint en donde se deciden en equipo los objetivos y se organiza cómo se van a lograr. Se podría decir que es donde se crea el backlog del sprint.
 * **Scrum diario o Daily scrum**: donde se adapta el backlog de sprint y se genera un plan para el día.
 * **Revisión del sprint**: se inspecciona lo conseguido en el sprint.
 * **Retrospectiva del sprint**: se planifican formas de mejorar la calidad y la eficacia del trabajo.
