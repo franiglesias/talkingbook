@@ -6,7 +6,7 @@ Solemos definir un bug como un mal funcionamiento de un sistema de software. Cur
 
 Como era de esperar, los bugs tienen un coste económico: si no se puede usar el software, se detienen los ingresos que genera, o incrementa los costes que evitaba. O, en otros casos, aumenta la posibilidad de que un cliente deje de trabajar con nosotras.
 
-La política de Zero bugs consiste en dejar de registrar, clasificar y seguir bugs y dedicarse a resolverlos de forma inmediata, en cuanto son informados.
+La política de Zero bugs consiste en dejar de registrar, clasificar y seguir bugs y dedicarse a resolverlos de forma inmediata, en cuanto nos informan de ellos.
 
 Esto hay que verlo en un contexto ágil. En este contexto asumimos que las entregas de valor son pequeñas y bien definidas. Si aparece un bug una vez desplegada la feature, es muy probable que haya sido introducido o habilitado por ese cambio. Por tanto, la localización y subsanación debería ser rápida. También asumimos una cobertura razonable de tests, al menos en las partes críticas del sistema, y buenos sistemas de integración de cambios y despliegue. Todo esto contribuye a garantizar que podemos desplegar software sin defectos evidentes.
 
@@ -16,10 +16,13 @@ Una vez que un bug ha sido reportado, lo primero sería centrarnos en él, y est
 
 En cualquier caso, una vez que tenemos un test, modificamos el código para hacerlo pasar, junto con todos los demás teste existentes. De este modo, subsanamos el bug y podemos desplegar este nuevo cambio para arreglarlo en producción. Entonces volvemos al desarrollo habitual.
 
-Esta forma de abordar los bugs suele despertar recelos. En buena parte, es cierto que no se puede aplicar en organizaciones que arrastran errores desde hace largo tiempo. En otra parte, existe una especie de creencia de que los bugs son algo así como consustanciales al desarrollo de software.
+Esta forma de abordar los bugs suele despertar recelos. En buena parte, es cierto que no se puede aplicar en organizaciones que arrastran errores desde hace largo tiempo. En otra parte, existe una especie de creencia de que los bugs son algo así como consustanciales al desarrollo de software. 
+
+Zero bugs no va de que no aparezcan errores, sino de evitar que se queden.
+
+## Defectos de software
 
 Para empezar, en lugar de bugs voy a empezar a hablar de defectos. Un defecto del software es un concepto que podríamos considerar más amplio que el de bug. Un defecto ocurre cuando el software no se comporta como las usuarias esperan.
-
 
 ### Defectos de comportamiento
 
@@ -29,8 +32,12 @@ Otro ejemplo de defecto puede ser el haber hecho asunciones incorrectas sobre un
 
 ### Defectos técnicos
 
-Otra categoría de defectos nos lleva
+Otra categoría de defectos nos lleva a lo que podríamos considerar errores técnicos. Por ejemplo, que se pueda dar una división por cero, o no manejar la situación en que accedemos a un servicio externo y no funciona. Es decir, errores que no tienen que ver con la lógica de nuestro negocio.
 
+## Triaje
 
+En muchas organizaciones se hace triaje de bugs. El triaje sirve para decidir qué equipo debe encargarse de atender un bug. Esto implica, tanto entender si se trata de un defecto de comportamiento o es un defecto técnico. Y, en todo caso, quién tiene los conocimientos o acceso necesario para darle solución.
 
+A la vez que escribo esto, debo reconocer que se me encienden varias alarmas. En todo caso, es cierto que a poco que una organización sea grande, es difícil saber a quién dirigir el reporte de un defecto, por lo que un proceso de triaje tiene sentido. Sin embargo, corre el riesgo de convertirse en un freno.
 
+Así, es necesario garantizar que no pasa más tiempo del necesario entre que se informa de un defecto y se le pone remedio, para lo cual debe llegar cuanto antes al equipo de desarrollo.

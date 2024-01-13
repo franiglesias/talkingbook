@@ -1,6 +1,6 @@
 # Estimaciones
 
-Las estimaciones sobre el coste de desarrollo de una feature o historia de usuario es uno de los temas que genera más discusiones.
+La estimación sobre el coste de desarrollo de una feature o historia de usuario es uno de los temas que genera más discusiones.
 
 A la hora de decidir desarrollar una funcionalidad en el software tenemos que sopesar dos dimensiones fundamentales:
 
@@ -26,15 +26,15 @@ El coste de desarrollo es la otra dimensión a tener en cuenta y también es otr
 
 Es muy difícil valorar cuánto cuesta realizar una tarea de programación. En una cadena de montaje es posible que puedas tener estimaciones bastante precisas de cuanto tiempo requiere realizar una fase e incluso optimizarla. Pero el desarrollo de software tiene otra naturaleza.
 
-Por hacer una analogía. En una cadena de montaje de coches, hay que colocar unas piezas definidas en un chasis que está preparado para ello. Quitando imprevistos como que se hayan agotado las piezas o algún tipo de accidente, es relativamente fácil saber cuánto tiempo se consume en montarlas.
+Por hacer una analogía. En una cadena de montaje de coches, hay que colocar unas piezas definidas en un chasis que está preparado para ello. Quitando imprevistos como que se hayan agotado las piezas o algún tipo de accidente, es relativamente fácil saber cuánto tiempo se consume en montarlas. En realidad, bastaría con obtener una buena muestra de medidas y calcular un índice de tendencia central, como la media o la mediana, para tener una estimación muy aceptable.
 
-Pero en software... el software no tiene nada que ver. Para empezar puede que ese chasis no exista, o que la pieza que hay que añadir no encaje en el existente, puede que haya que rediseñar esa parte del chasis porque las necesidades han cambiado o puede que no esté preparado para añadir o cambiar esa pieza específica. En resumen: el coste de desarrollo de software incluye un algo grado de incertidumbre.
+Pero en software... el software no tiene nada que ver. Para empezar puede que ese chasis no exista, o que la pieza que hay que añadir no encaje en el existente, puede que haya que rediseñar esa parte del chasis porque las necesidades han cambiado o puede que no esté preparado para añadir o cambiar esa pieza específica. En software esto ocurre porque cada vez que tenemos que modificar código la situación es diferente.
 
-Reducir ese nivel de incertidumbre no es fácil. Para empezar, no se puede reducir mediante alguna técnica dde estimación más precisa. La mejor forma es dividir la funcionalidad en trozos más pequeños con poca incertidumbre que, aunque entreguen una fracción del valor, se pueden ejecutar en un tiempo reducido y más predecible.
+En resumen: el coste de desarrollo de software incluye un algo grado de incertidumbre.
 
-En realidad, cuanto más costosa es la tarea, menos precisa será la estimación.
+Reducir el nivel de incertidumbre es el camino a seguir, pero no es fácil. No se puede reducir mediante técnicas de estimación más precisas. El ideal es llegar a dividir la funcionalidad en trozos más pequeños cuya expresión en código no tenga incertidumbre o sea mínima. Aunque entreguen una fracción del valor, se pueden ejecutar en un tiempo reducido.
 
-Estimar es, literalmente, timar. Los puntos de historia para estimar el esfuerzo de una tarea se inventaron justamente para timar a los managers y no darles estimaciones de tiempo. El objetivo era tratar de librar a los equipos de desarrollo de la presión de los plazos de entrega.
+Si llegamos a este tipo de fraccionamiento, es relativamente fácil predecir hasta donde vamos a llegar en un período de tiempo dado.
 
 ## La relación entre valor y coste
 
@@ -47,6 +47,8 @@ Esto nos proporciona un criterio relativamente sencillo para tomar decisiones so
 * Priorizar la entrega de valor aunque sea en unidades pequeñas pero visibles
 * En lugar de introducir tareas de alto coste, partirlas hasta descomponerlas en entregas de valor pequeñas pero de bajo coste
 
+## Puntos de historia
 
+Estimar es, literalmente, timar. Los puntos de historia para estimar el esfuerzo de una tarea se inventaron justamente para timar a los managers y no darles estimaciones de tiempo. El objetivo era tratar de librar a los equipos de desarrollo de la presión de los plazos de entrega.
 
 

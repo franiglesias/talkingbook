@@ -14,7 +14,7 @@ Pero todo préstamo tiene que devolverse. La forma de pagar la deuda técnica es
 
 ## La deuda técnica como justificación de malas decisiones
 
-La metáfora original interpreta la deuda como falta de conocimiento o falta de articulación del conocimiento. Se incurre en deuda porque carecemos del conocimiento suficiente, así que pedimos prestado ese conocimiento publicando un software. Es una acción deliberada y el pago se formalizará en forma de refactoring para recoger ese conocimiento que hemos pedido prestado.
+La metáfora original interpreta la deuda como falta de conocimiento o falta de articulación del conocimiento. Se incurre en deuda porque carecemos del conocimiento suficiente, así que pedimos un préstamo de tiempo para conseguir ese conocimiento publicando un software. Es una acción deliberada y el pago se formalizará en forma de refactoring para reflejar ese conocimiento que hemos obtenido gracias al préstamo.
 
 **Deuda técnica como decisión entre opciones**. En muchos artículos sobre deuda técnica se plantea la idea de que los equipos de desarrollo incurren en la deuda tomando una decisión entre salir pronto a producción (arreglando después) o salir bien construído. Este enfoque me parece erróneo y refleja otro tipo de problemas.
 

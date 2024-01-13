@@ -1,28 +1,28 @@
 # Qué es y que no es Agile
 
-Agile no es una metodología, ni un proceso, ni un framework. Creo que hasta es incorrecto decir que es una mentalidad o _mindset_. Quizá podríamos decir que Agile es una forma de reflexionar sobre el desarrollo de software, o una filosofía, si lo prefieres.
+_Agile_ no es una metodología, ni un proceso, ni un framework. Creo que hasta es incorrecto decir que es una mentalidad o _mindset_. Quizá podríamos decir que _Agile_ es una forma de reflexionar sobre el desarrollo de software. O, si lo prefieres, se trata de una filosofía para abordarlo.
 
-Históricamente, podemos pensar que Agile nace con el Manifiesto Agile, pero más bien el Manifiesto es un punto de encuentro para diversos grupos y profesionales preexistentes que habían desarrollado sus propias metodologías y frameworks, como _extreme programming_, _scrum_, _lean_, incluso _DevOps_ podría considerarse Agile. Muchos de estos frameworks están inspirados u obtienen ideas de las metodologías _Lean Manufacturing_ o el _Toyota Production System_.
+Históricamente, podemos pensar que _Agile_ nace con el **Manifiesto Agile**, pero más bien el Manifiesto fue un punto de encuentro para diversos grupos y profesionales preexistentes que habían desarrollado sus propias metodologías y _frameworks_, como _extreme programming_, _scrum_, o _lean_. Incluso _DevOps_ podría considerarse _Agile_. Muchos de estos _frameworks_ están inspirados u obtienen ideas de las metodologías _Lean Manufacturing_ o el _Toyota Production System_.
 
-¿Por qué? Pues porque los equipos de desarrollo de software entendieron que las metodologías clásicas de la ingeniería no funcionaban bien aplicadas al software. 
+¿Por qué? Pues porque los equipos de desarrollo de software entendieron que las metodologías clásicas de la ingeniería no funcionaban bien cuando se aplicaban al software. 
 
 Por lo general, la ingeniería física require un diseño meticuloso y una planificación cuidadosa antes de comenzar a implementar. No puedes empezar a construir un puente sin saber donde vas a poner los pilares, qué hay al otro lado, cómo se va a usar, qué peso va a tener que soportar, qué fuerzas pueden influir sobre él, como corrientes de agua o vientos, y un largo etcétera.
 
-En muchos sentidos, la ingeniería física crea productos que han de acertar a la primera. Pero al requerir mucho tiempo de desarrollo y ejecución, es muy posible que cuando por fin han sido desplegados pueden haber ocurrido cambios en el entorno a los que ya no se puede adaptar. 
+En cierto sentido, la ingeniería física crea productos que han de acertar a la primera. Sin embargo, al requerir mucho tiempo de desarrollo y ejecución, es muy posible que cuando por fin han sido desplegados puedan haber ocurrido cambios en el entorno a los que ya no es posible adaptarse. Por eso, es necesario considerar muy cuidadosamente todas las variables en juego, partiendo de los requisitos del proyecto, pero también anticipando circunstancias futuras.
 
-Pero el software no tiene los mismos condicionantes. En comparación con cualquier ingeniería física, que trabaja con materiales sujetos a las leyes de la naturaleza, el software es mucho más libre. Puedes usar el software a medida que se construye, una vez que hay suficientes elementos desplegados. Incluso aunque esté incompleto puede proporcionar un valor. Por otro lado, es relativamente fácil de cambiar, lo que permite reaccionar cuando vemos que el negocio va cambiando de maneras que no habíamos previsto.
+Claro que el software no tiene los mismos condicionantes. En comparación con cualquier ingeniería física, que trabaja con materiales sujetos a las leyes de la naturaleza, el software es mucho más libre. Puedes usar el software a medida que se construye, una vez que hay suficientes elementos desplegados. Incluso aunque esté incompleto puede proporcionar un valor. Por otro lado, es relativamente fácil de cambiar, lo que permite reaccionar cuando vemos que el negocio va cambiando de maneras que no habíamos previsto o, simplemente, cuando comprobamos que nos hemos equivocado en algo.
 
-Para ello son fundamentales los ciclos de feedback, es decir, la información que obtenemos sobre el comportamiento del software de diversas fuentes. Cuanto más cortos, mejor. Y por cortos entendemos minutos mejor que horas, horas mejor que días y así sucesivamente. Para lograrlo necesitamos incorporar, por un lado, a la cliente o usuaria en el equipo de desarrollo de forma que podamos tener conversaciones con ella cada vez que sea necesario. Por otro lado, incorporamos prácticas que nos faciliten el feedback, como _pair-programming_, test driven development, etc. Pero también implica entregar el software en pequeños lotes de funcionalidad, de tal modo que revertir lo desplegado o introducir cambios sea lo menos costoso posible.
+Para ello son fundamentales los ciclos de feedback, es decir, la información que obtenemos sobre el comportamiento del software de diversas fuentes. Cuanto más cortos, mejor. Y por cortos entendemos minutos mejor que horas, horas mejor que días y así sucesivamente. Para lograrlo necesitamos incorporar, por un lado, a la cliente o usuaria en el equipo de desarrollo de forma que podamos tener conversaciones con ella cada vez que sea necesario. Por otro lado, incorporamos prácticas que nos faciliten el feedback, como _pair-programming_, _test driven development_, etc. Pero también implica entregar el software en pequeños lotes de funcionalidad, de tal modo que revertir lo desplegado o introducir cambios sea lo menos costoso posible.
 
 Esta forma de abordar los proyectos de software puede parecer idílica, pero es factible. 
 
 Lo primero que hay que tener en cuenta es que no es algo que se pueda conseguir de la noche a la mañana. Requiere un proceso de aprendizaje. Requiere hacerse consciente de como trabajas y reflexionar sobre cómo mejorar esa forma de trabajar. Por tanto, requiere una cierta capacidad de autocrítica, individual y grupal.
 
-Es decir: un equipo no se vuelve Agile porque le adjudiquemos la etiqueta, o por introducir una serie de prácticas descontextualizadamente. En vez de eso, un equipo aprende a trabajar de forma Agile a medida que desarrolla un proyecto.
+Es decir: un equipo no se vuelve _Agile_ porque le adjudiquemos la etiqueta, o por introducir una serie de prácticas descontextualizadamente. Ni siquiera por seguir un _framework_ concreto. En vez de eso, un equipo aprende a trabajar de forma _Agile_ a medida que desarrolla un proyecto.
 
-No existe una receta para ser Agile salvo aplicar, quizá, los principios del Manifiesto. Por otro lado, disponemos de frameworks como Scrum, Extreme Programming, Kanban y otros menos conocidos.
+No existe una receta para ser _Agile_ salvo aplicar, quizá, los principios del Manifiesto. Por otro lado, disponemos de frameworks como Scrum, Extreme Programming, Kanban y otros menos conocidos que buscan articular una forma de trabajar ágilmente.
 
-Si el manifesto te parece demasiado largo, quédate con esta definición de Allen Holub:
+Pero si el manifesto te parece demasiado largo, quédate con esta definición de Allen Holub:
 
 Agile:
 
