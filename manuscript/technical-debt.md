@@ -1,6 +1,6 @@
 # Técnica (Deuda)
 
-La idea de la deuda técnica es una metáfora usada por Ward Cunningham para explicar la refactorización de un producto financiero llamado WyCash. Seguramente, el hecho de estar trabajando en un dominio de este tipo facilitó el uso de esta analogía del mundo de las finanzas. 
+La idea de la deuda técnica es una metáfora usada por Ward Cunningham para explicar la refactorización de un producto financiero llamado _WyCash_. Seguramente, el hecho de estar trabajando en un dominio de este tipo facilitó el uso de esta analogía del mundo de las finanzas. 
 
 http://wiki.c2.com/?WardExplainsDebtMetaphor
 
@@ -10,7 +10,7 @@ La razón para hacerlo era evitar que en el futuro la discrepancia se hiciese ta
 
 Pero, ¿cuál es el préstamo? La deuda se origina cuando se pone en producción un código de forma temprana para poder aprender sobre él. Dicho en otras palabras: es cuando lanzamos una funcionalidad de un producto, pero nuestro conocimiento sobre ese aspecto del negocio es todavía tosco e impreciso. El feedback y la experiencia nos ayudan a refinar ese modelo mental del negocio que tenemos como equipo. Lanzar el producto de forma temprana nos permite adquirir conocimiento que tardaríamos mucho en lograr por otros medios y así entender por dónde deberíamos seguir avanzando.
 
-Pero todo préstamo tiene que devolverse. La forma de pagar la deuda técnica es refactorizar el código para reflejar el conocimiento adquirido. Debería resultar bastante claro que seguramente prefiramos pagar en pequeñas cuotas aunque sean frecuentes, que encontramos en un momento dado teniendo que pagar capital e intereses de golpe. Esto es: aplicar el refactor de forma activa y constante en cada oportunidad que tengamos.
+Pero todo préstamo tiene que devolverse. La forma de pagar la deuda técnica es refactorizar el código para reflejar el conocimiento adquirido. Debería resultar bastante claro que seguramente prefiramos pagar en pequeñas cuotas aunque sean frecuentes, que encontramos en un momento dado teniendo que pagar todos los intereses de golpe. Esto es: aplicar el refactor de forma activa y constante en cada oportunidad que tengamos.
 
 ## La deuda técnica como justificación de malas decisiones
 

@@ -12,7 +12,7 @@ Y, ojo, no estoy diciendo que eso esté mal. De hecho, Agile dice que cada equip
 
 ## Pero, ¿qué es Scrum?
 
-Scrum es un framework, o sea, una codificación de ciertas prácticas metodológicas que, realizadas de forma sistemática, deberían conducir a una entrega sostenida de valor en equipos de desarrollo de software. Esta codificación se concreta en la Guía Oficial de Scrum, que es su única referencia válida.
+Scrum es un framework, o sea, la codificación de ciertas prácticas metodológicas que, realizadas de forma sistemática, deberían conducir a una entrega sostenida de valor en equipos de desarrollo de software. Esta codificación se concreta en la _Guía Oficial de Scrum_, que es su única referencia válida.
 
 Scrum es una metodología relativamente simple y diría que bien aplicada puede ser una buena forma de que un equipo que no sabe trabajar ágilmente pueda empezar a aprender. Con el tiempo, un equipo genuinamente ágil probablemente abandonará Scrum porque puede llegar un punto en que la metodología suponga un freno.
 
@@ -28,20 +28,20 @@ Si los equipos son demasiado grandes, deberán reorganizarse como equipos más p
 
 ### Roles
 
-**Desarrolladoras**: la función de las desarrolladoras es construir el incremento de valor del producto, para lo cual deben crear un plan, llamado Backlog de Sprint, trabajar con calidad y adaptar el plan diario.
+**Desarrolladoras**: la función de las desarrolladoras es construir el incremento de valor del producto, para lo cual deben crear un plan, llamado _Backlog de Sprint,_ trabajar con calidad y adaptar el plan diario.
 
-**Propietaria de Producto**: su tarea básicamente consiste en maximizar el valor del producto resultante, para lo cual gestiona el Backlog, partiendo de las peticiones y necesidades de todas las partes interesadas en el producto (stakeholders). El Backlog es el registro del trabajo pendiente, de las cosas que habría que hacer para que el producto aporte valor.
+**Propietaria de Producto**: su tarea básicamente consiste en maximizar el valor del producto resultante, para lo cual gestiona el _Backlog_, partiendo de las peticiones y necesidades de todas las partes interesadas en el producto (_stakeholders_). El _Backlog_ es el registro del trabajo pendiente, de las cosas que habría que hacer para que el producto aporte valor.
 
-**Scrum Master**: su tarea es velar por el proceso Scrum, ayudando tanto a desarrolladoras, como propietaria del producto y stakeholders.
+**Scrum Master**: su tarea es velar por el proceso _Scrum_, ayudando tanto a desarrolladoras, como propietaria del producto y stakeholders.
 
 ## La crítica a Scrum
 
-Muchos proponentes de Agile reniegan de Scrum, no sin buenos motivos. Esto ocurre por varias razones, pero quizá las más importantes sean:
+Muchos proponentes de Agile reniegan de _Scrum_, no sin buenos motivos. Esto ocurre por varias razones, pero quizá las más importantes sean:
 
-* El énfasis en el proceso. Mientras que Agile pone las personas por encima de los procesos. Lo que dice Agile es que cada equipo debe buscar, constantemente, su propio forma de trabajar.
+* El énfasis en el proceso, mientras que Agile pone las personas por encima de los procesos. Lo que dice Agile es que cada equipo debe buscar, constantemente, su propio forma de trabajar.
 * Ha sido _secuestrado_ por el management como forma de control del trabajo de los equipos de desarrollo.
 * Las certificaciones han prostituido la naturaleza ágil de Scrum.
-* Se han confundido roles, tales como el de product owner o scrum master, con puestos. La necesidad de dotar de sentido a estos puestos, ha creado nuevas capas de management intermedio y burocracia... Justo lo que Agile trataba de evitar.
+* Se han confundido roles, tales como el de _product owner_ o el de _scrum master_, con puestos. La necesidad de dotar de sentido a estos puestos, ha creado nuevas capas de management intermedio y burocracia... Justo lo que Agile trataba de evitar.
 
 
 
