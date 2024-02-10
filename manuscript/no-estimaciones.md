@@ -30,7 +30,7 @@ Por hacer una analogía. En una cadena de montaje de coches, hay que colocar una
 
 Pero en software... el software no tiene nada que ver. Para empezar puede que ese chasis no exista, o que la pieza que hay que añadir no encaje en el existente, puede que haya que rediseñar esa parte del chasis porque las necesidades han cambiado o puede que no esté preparado para añadir o cambiar esa pieza específica. En software esto ocurre porque cada vez que tenemos que modificar código la situación es diferente.
 
-En resumen: el coste de desarrollo de software incluye un algo grado de incertidumbre.
+En resumen: el coste de desarrollo de software incluye un alto grado de incertidumbre.
 
 Reducir el nivel de incertidumbre es el camino a seguir, pero no es fácil. No se puede reducir mediante técnicas de estimación más precisas. El ideal es llegar a dividir la funcionalidad en trozos más pequeños cuya expresión en código no tenga incertidumbre o sea mínima. Aunque entreguen una fracción del valor, se pueden ejecutar en un tiempo reducido.
 

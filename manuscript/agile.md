@@ -12,19 +12,17 @@ En cierto sentido, la ingeniería física crea productos que han de acertar a la
 
 Claro que el software no tiene los mismos condicionantes. En comparación con cualquier ingeniería física, que trabaja con materiales sujetos a las leyes de la naturaleza, el software es mucho más libre. Puedes usar el software a medida que se construye, una vez que hay suficientes elementos desplegados. Incluso aunque esté incompleto puede proporcionar un valor. Por otro lado, es relativamente fácil de cambiar, lo que permite reaccionar cuando vemos que el negocio va cambiando de maneras que no habíamos previsto o, simplemente, cuando comprobamos que nos hemos equivocado en algo.
 
-Para ello son fundamentales los ciclos de feedback, es decir, la información que obtenemos sobre el comportamiento del software de diversas fuentes. Cuanto más cortos, mejor. Y por cortos entendemos minutos mejor que horas, horas mejor que días y así sucesivamente. Para lograrlo necesitamos incorporar, por un lado, a la cliente o usuaria en el equipo de desarrollo de forma que podamos tener conversaciones con ella cada vez que sea necesario. Por otro lado, incorporamos prácticas que nos faciliten el feedback, como _pair-programming_, _test driven development_, etc. Pero también implica entregar el software en pequeños lotes de funcionalidad, de tal modo que revertir lo desplegado o introducir cambios sea lo menos costoso posible.
+Para ello son fundamentales los ciclos de feedback, es decir, la información que obtenemos de diversas fuentes acerca del comportamiento del software. Cuanto más cortos, mejor. Y por cortos entendemos minutos mejor que horas, horas mejor que días, días mejor que semanas y así sucesivamente. Para lograrlo necesitamos incorporar, por un lado, a la cliente o usuaria en el equipo de desarrollo de forma que podamos tener conversaciones con ella cada vez que sea necesario. Por otro lado, incorporamos prácticas que nos faciliten el feedback, como _pair-programming_, _test driven development_, etc. Pero también implica entregar el software en pequeños lotes de funcionalidad, de tal modo que revertir lo desplegado o introducir cambios sea lo menos costoso posible.
 
-Esta forma de abordar los proyectos de software puede parecer idílica, pero es factible. 
+Esta forma de abordar los proyectos de software puede parecer idílica, pero es perfectamente factible. 
 
-Lo primero que hay que tener en cuenta es que no es algo que se pueda conseguir de la noche a la mañana. Requiere un proceso de aprendizaje. Requiere hacerse consciente de como trabajas y reflexionar sobre cómo mejorar esa forma de trabajar. Por tanto, requiere una cierta capacidad de autocrítica, individual y grupal.
+Lo primero que hay que tener en cuenta es que no es algo que se pueda conseguir de la noche a la mañana. Requiere un proceso de aprendizaje. Implica hacerse consciente de como trabajas y reflexionar sobre cómo mejorar esa forma de trabajar. Por tanto, presupone una cierta capacidad de autocrítica, individual y grupal.
 
-Es decir: un equipo no se vuelve _Agile_ porque le adjudiquemos la etiqueta, o por introducir una serie de prácticas descontextualizadamente. Ni siquiera por seguir un _framework_ concreto. En vez de eso, un equipo aprende a trabajar de forma _Agile_ a medida que desarrolla un proyecto.
+Es decir: un equipo no se vuelve _Agile_ porque le adjudiquemos esa etiqueta, o por introducir una serie de prácticas descontextualizadamente. Ni siquiera por seguir un _framework_ concreto. En vez de eso, un equipo aprende a trabajar de forma _Agile_ a medida que desarrolla un proyecto.
 
-No existe una receta para ser _Agile_ salvo aplicar, quizá, los principios del Manifiesto. Por otro lado, disponemos de frameworks como Scrum, Extreme Programming, Kanban y otros menos conocidos que buscan articular una forma de trabajar ágilmente.
+No existe una receta para ser _Agile_ salvo aplicar, quizá, los principios del Manifiesto. Por otro lado, disponemos de frameworks como _Scrum_, _Extreme Programming_, _Kanban_ y otros menos conocidos que buscan articular una forma de trabajar ágilmente.
 
-Pero si el manifesto te parece demasiado largo, quédate con esta definición de Allen Holub:
-
-Agile:
+Pero si el manifesto te parece demasiado largo, quédate con esta definición de Allen Holub sobre _Agile_:
 
 * Trabajad en lotes pequeños
 * Hablad entre vosotras
