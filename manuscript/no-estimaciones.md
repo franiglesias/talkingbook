@@ -1,6 +1,6 @@
 # Estimaciones
 
-La estimación sobre el coste de desarrollo de una feature o historia de usuario es uno de los temas que genera más discusiones.
+La estimación sobre el coste de desarrollo de una feature o historia de usuario es uno de los temas que genera más discusiones en nuestro sector.
 
 A la hora de decidir desarrollar una funcionalidad en el software tenemos que sopesar dos dimensiones fundamentales:
 
@@ -13,7 +13,7 @@ Siendo sincero, no he visto demasiada literatura acerca de cómo estimar o cuant
 
 * Aporta una capacidad que antes no existía
 * Reduce el tiempo necesario para ejecutar un proceso de negocio
-* Potencialmente, permite generar una cierta cuantía de ingresos
+* Potencialmente, permite generar una cierta cantidad de ingresos
 * Potencialmente, permite ahorrar una cierta cantidad en gastos
 
 Digo "potencialmente" en cuando a la generación de ingresos o al ahorro de gastos porque eso se basa en suposiciones: que las usuarias están interesadas en la prestación, que los clientes pagarán por ella, que incrementará las ventas, etc.
