@@ -1,10 +1,10 @@
 # Técnica (Deuda)
 
-La idea de la deuda técnica es una metáfora usada por Ward Cunningham para explicar la refactorización de un producto financiero llamado _WyCash_. Seguramente, el hecho de estar trabajando en un dominio de este tipo facilitó el uso de esta analogía del mundo de las finanzas. 
+La idea de la deuda técnica es una metáfora usada por Ward Cunningham para explicar la refactorización de un producto financiero llamado _WyCash_. Seguramente, el hecho de estar trabajando en ese dominio facilitó el uso de esta analogía del mundo de las finanzas. 
 
 http://wiki.c2.com/?WardExplainsDebtMetaphor
 
-La intención de Cunningham con la reescritura era reflejar el conocimiento que iban ganando sobre el producto a medida que se desarrollaba y se usaba. Es decir, se percibía una diferencia entre el conocimiento de negocio que se reflejaba en el código en producción y el conocimiento de negocio que el equipo tenía. El objetivo, por tanto, era alinear el código con ese conocimiento, para lo cual deberían refactorizarlo regularmente. En esencia, se trata de aprovechar la maleabilidad del software.
+La intención de Cunningham con la reescritura era reflejar el conocimiento que iban ganando sobre el producto a medida que se desarrollaba y se usaba. Es decir, se percibía una diferencia entre el conocimiento de negocio que se expresaba en el código en producción y el conocimiento de negocio que el equipo tenía. El objetivo, por tanto, era alinear el código con ese conocimiento, para lo cual deberían refactorizarlo regularmente. En definitiva, se trata de aprovechar la maleabilidad del software para mantenerlo actualizado y alineado con el negocio.
 
 La razón para hacerlo era evitar que en el futuro la discrepancia se hiciese tan grande que llegase a ralentizar el desarrollo del producto. Esa ralentización, siguiendo la metáfora, equivaldría al pago de intereses de un préstamo.
 
@@ -30,7 +30,7 @@ Y abunda:
 
 > En otras palabras, la metáfora de la deuda en sí, digamos, la capacidad de devolver la deuda, y hacer que la metáfora trabaje a tu favor depende de que escribas código que sea lo bastante limpio para poder refactorizarlo a medida que vas entendiendo tu problema.
 
-Es decir, lo que la metáfora de la deuda promueve es: está bien tener una idea de negocio modelada en el código y ponerla en producción, aunque sea incompleta, pero ese código debe reflejar correctamente el conocimiento que tienes en ese momento. A medida que adquieres nuevo conocimiento, refléjalo activamente en el código.
+Es decir, lo que la metáfora de la deuda promueve es: está bien tener una idea de negocio modelada en el código y ponerla en producción, aunque sea incompleta, pero ese código debe reflejar correctamente el conocimiento que tienes en ese momento. A medida que adquieres nuevo conocimiento, trasládalo activamente al código.
 
 Escribir mal código es como suscribir un préstamo y gastar más dinero del que has pedido.
 
