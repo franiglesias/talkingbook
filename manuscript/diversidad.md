@@ -1,12 +1,10 @@
 # Diversidad
 
-A veces limitamos la definición de diversidad a la presencia o no de mujeres en los departamentos de tecnología, y particularmente en los equipos de desarrollo de software. Diversidad abarca esto y mucho más, si bien la falta de representación de mujeres en tecnología es especialmente llamativa, especialmente si pensamos que en sus orígenes la informática se consideraba una carrera femenina.
+A veces limitamos la definición de diversidad a la presencia o no de mujeres en los departamentos de tecnología, y particularmente en los equipos de desarrollo de software. Diversidad abarca esto y mucho más, si bien la falta de representación de mujeres en tecnología es especialmente dolorosa, especialmente si pensamos que en sus orígenes la informática se consideraba una carrera femenina. Y no porque digamos que la primera programadora fue Ada Lovelace, sino porque en su momento el trabajo con ordenadores permitía una ocupación _decorosa_ y adecuada para mujeres trabajadoras, aunque no dejaban de estar subordinadas a los hombres en muchos casos. Esto no obedecía a un punto de vista feminista, sino más bien lo contrario. 
 
-Y no porque digamos que la primera programadora fue Ada Lovelace, sino porque en su momento el trabajo con ordenadores permitía una ocupación decorosa y adecuada para mujeres trabajadoras, aunque no dejaban de estar subordinadas a los hombres en muchos casos. Esto no obedecía a un punto de vista feminista, sino más bien lo contrario. 
+Por eso, contamos con muchas mujeres referentes en el campo, que realizaron grandes aportaciones entre los años 40 y 70, como pueden ser Grace Hooper, Margaret Mitchell o Hady Lamar, por citar algunos de los nombres más conocidos.
 
-Por eso, contamos con muchas mujeres referentes en el campo, que realizaron grandes aportaciones entre los años 40 y 70, como pueden ser Grace Hooper, Margaret Mitchell o Hady Lamar.
-
-Posteriormente, la profesión fue llenándose de varones hasta el punto de que la representación de mujeres alcanzó mínimos históricos. Hoy por hoy, dependiendo de las áreas, las cifras van mejorando y depende bastante de la especialidad, pero aún estamos lejos de un equilibrio.
+Posteriormente, la profesión fue llenándose de varones hasta el punto de que la representación de mujeres alcanzó mínimos históricos. Hoy por hoy, dependiendo de las áreas, las cifras van mejorando, pero aún estamos lejos de un equilibrio.
 
 Sin embargo, diversidad no es solo una cuestión de representación masculina frente a femenina, aunque es un tema fundamental. También tenemos un problema de diversidad relacionado con otros elementos demográficos como la etnicidad o la edad, y por supuesto con la diversidad física e intelectual.
 

@@ -4,7 +4,7 @@ Digámoslo con claridad: juntar a un cierto número de personas y ponerlas a tra
 
 Se podría decir que un equipo tiene que actuar como una unidad. Incluso diría que como un organismo. Cada uno de sus componentes aporta sus propias capacidades al fin común. Como todo, esto implica que es necesario aprender a trabajar de una cierta manera.
 
-Por lo general, todas las aproximaciones agile consideran que un equipo de desarrollo de software debe dotarse de todas las capacidades necesarias para cumplir sus objetivos de forma autónoma. Así, normalmente, queremos que haya personas con conocimientos en frontend, backend, sistemas, user experience y negocio.
+Por lo general, todas las aproximaciones agile consideran que un equipo de desarrollo de software debe dotarse de todas las capacidades necesarias para cumplir sus objetivos de forma autónoma. Así, normalmente, queremos que haya personas con conocimientos en _frontend_, _backend_, sistemas, _user experience_ y negocio.
 
 Esto no siempre quiere decir que tenga que formar parte del equipo una persona de cada una de esas especialidades. Las que tienen que estar presentes son las capacidades y los conocimientos. Sin embargo, la complejidad de cada uno de los ámbitos hace que sea muy frecuente tener especialistas. En cualquier caso, también depende de la organización, su propia complejidad y, por qué no decirlo, de su capacidad económica.
 
@@ -26,7 +26,7 @@ Si el equipo practica revisiones de código asíncronas para poder mezclar los c
 
 **Trabajar regularmente en formatos de pair-programming o mob-programming**. Estos formatos son los más adecuados para favorecer la diseminación de conocimiento entre desarrolladores, pero también entre otros miembros del equipo.
 
-_Pair-programming_ es la práctica de trabajar en pareja para desarrollar una prestación en código. La idea básica es que una de las personas (driver) se encargue de escribir el código y la otra (navigator) se ocupe de dirigirlo con un enfoque más estratégico. Estos roles se deben alternar, incluso dentro de la misma sesión. Hay diversas configuraciones para llevar a cabo sesiones de _pair-programming_, dependiendo del grado de experiencia de cada persona.
+_Pair-programming_ es la práctica de trabajar en pareja para desarrollar una prestación en código. La idea básica es que una de las personas (driver) se encargue de escribir el código y la otra (navigator) se ocupe de dirigirlo con un enfoque más estratégico. Estos roles se deben alternar, incluso dentro de la misma sesión. Hay diversas configuraciones para llevar a cabo sesiones de _pair-programming_, dependiendo del grado de experiencia de cada persona y de los objetivos de la sesión.
 
 _Mob-programming_ es una práctica similar, pero en este caso, es todo el equipo el que participa aportando ideas, haciendo preguntas, proponiendo soluciones, buscando información, etc. Una forma de conceptualizarlo es entender estas sesiones como conversaciones del equipo en las que se toman notas en forma de código. De hecho, se puede entrar y salir de la sesión, invitar a otras personas de otros equipos que puedan tener algo que ver con lo que estamos desarrollando, etc. Es una técnica ideal para los primeros pasos de diseño de una prestación, en los que se pueden ir estableciendo los componentes necesarios, los contratos entre distintas partes, etc. 
 

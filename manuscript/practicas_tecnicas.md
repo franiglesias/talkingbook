@@ -102,7 +102,7 @@ Es muy importante tener presente que un patrón de diseño no es una receta para
 
 El primer elemento es el problema. Un patrón de diseño describe un problema común que puede presentarse en cualquier proyecto de software. Por ejemplo: cómo añadir un número indefinido de funcionalidades a un objeto en tiempo de ejecución.
 
-El segundo elemento es una propuesta de solución de ese problema que ha sido probada. Así, para el ejemplo anterior, una solución es envolver el objeto en otro (u otros) que implemente la misma interfaz, interceptando y modificando (decorando) su _output_. Este par problema-solución es un conocido como _Decorador_.
+El segundo elemento es una propuesta de solución de ese problema que ha sido probada. Así, para el ejemplo anterior, una solución es envolver el objeto en otro (u otros) que implemente la misma interfaz, interceptando y modificando (decorando) su _output_. Este par concreto de problema y solución es conocido como _Decorador_.
 
 La implementación que se describe en el patrón no es una receta, sino una guía. Esta implementación puede depender del lenguaje en que estemos trabajando y de la complejidad del propio problema.
 
@@ -114,3 +114,12 @@ Se han identificado infinidad de patrones, que se pueden clasificar en:
 
 ### Principios
 
+Los principios de diseño de software son guías para tomar decisiones. No son normas escritas en piedra, pero tampoco son ocurrencias. La idea es que los tomemos en consideración para valorar si un software está bien escrito y es sostenible en el tiempo. Por lo general, si seguimos principios de diseño, el código tenderá a ser fácil de entender y de mantener.
+
+Los principios pueden ayudarnos a decidir donde poner ciertas estructuras y comportamientos en su sistema de software. Esto es lo que nos proporcionan los llamados Principios o Patrones GRASP.
+
+Los principios SOLID, por otro lado, están orientados a ayudarnos a diseñar software con bajo acoplamiento.
+
+Pero existen muchos otros.
+
+En ocasiones, podemos sentir que algunos principios se oponen o entorpecen a otros, por así decir. Como decíamos antes, los principios de diseño son criterios para tomar decisiones, no son leyes. En ocasiones, nos convendrá darle más peso a unos que otros. El diseño consiste en decidir qué compromisos estamos dispuestas a aceptar.
