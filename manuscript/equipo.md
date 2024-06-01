@@ -4,7 +4,7 @@ Digámoslo con claridad: juntar a un cierto número de personas y ponerlas a tra
 
 Se podría decir que un equipo tiene que actuar como una unidad. Incluso diría que como un organismo. Cada uno de sus componentes aporta sus propias capacidades al fin común. Como todo, esto implica que es necesario aprender a trabajar de una cierta manera.
 
-Por lo general, todas las aproximaciones agile consideran que un equipo de desarrollo de software debe dotarse de todas las capacidades necesarias para cumplir sus objetivos de forma autónoma. Así, normalmente, queremos que haya personas con conocimientos en _frontend_, _backend_, sistemas, _user experience_ y negocio.
+Por lo general, todas las aproximaciones _agile_ consideran que un equipo de desarrollo de software debe dotarse de todas las capacidades necesarias para cumplir sus objetivos de forma autónoma. Así, normalmente, queremos que haya personas con conocimientos en _frontend_, _backend_, sistemas, _user experience_ y negocio.
 
 Esto no siempre quiere decir que tenga que formar parte del equipo una persona de cada una de esas especialidades. Las que tienen que estar presentes son las capacidades y los conocimientos. Sin embargo, la complejidad de cada uno de los ámbitos hace que sea muy frecuente tener especialistas. En cualquier caso, también depende de la organización, su propia complejidad y, por qué no decirlo, de su capacidad económica.
 
@@ -18,7 +18,7 @@ Este _bus factor_ se puede reducir de varias formas. En lo que toca al equipo de
 
 **Evitar la multitarea de equipo**. El equipo debería trabajar conjuntamente en los mismos proyectos o historias de usuario, o al menos hasta el punto de que no se molesten entre sí.
 
-Cuando las distintas personas del equipo trabajan en proyectos no relacionados, o mínimamente relacionados, tienden a generarse silos de conocimiento. Con el tiempo, las mismas personas tenderán a dedicarse a los mismos temas. Esto es por una cuestión de familiaridad y eficiencia. Si cada semana tienes que elegir entre trabajar en algo de lo que tienes experiencia previa y algo que te resulta totalmente nuevo, lo más seguro es que acabes escogiendo lo conocido. El trabajo saldrá adelante más rápido.
+Cuando las distintas personas del equipo trabajan en proyectos no relacionados, o mínimamente relacionados, tienden a generarse silos de conocimiento. Con el tiempo, las mismas personas tenderán a dedicarse a los mismos temas. Esto es por una cuestión de familiaridad y eficiencia. Si cada semana tienes que elegir entre trabajar en algo de lo que tienes experiencia previa y algo que te resulta totalmente nuevo, lo más seguro es que acabes escogiendo lo conocido. Además, el trabajo saldrá adelante más rápido.
 
 Si escoges la tarea completamente nueva, aparte de trabajar más lentamente porque tienes que aprender lo necesario para poder ejecutarla, lo más seguro es que acabes pidiendo ayuda a alguien que tendrá que aparcar su propia tarea para dedicarte un tiempo. Esto acaba generando una sensación negativa de ineficiencia y bajo rendimiento.
 
@@ -32,7 +32,7 @@ _Mob-programming_ es una práctica similar, pero en este caso, es todo el equipo
 
 Esto no quiere decir que tengamos que trabajar en uno de estos formatos todo el tiempo. Lo ideal es que el equipo entero trabaje conjuntamente en el análisis de la historia de usuario, definiendo sus criterios de aceptación, y los primeros pasos de diseño de la solución, hasta el punto en que el trabajo por especialidad tenga más sentido. Y así, sucesivamente, hasta que tengamos tareas muy acotadas que sea fácil realizar individualmente. 
 
-**Diseñar soluciones sencillas, fáciles de entender y cambiar.** En lo que respecta al código, lo ideal es que sea lo más expresivo y fácil de entender posible. El código, como expresión de un conocimiento del negocio, debería reflejar los conceptos y el lenguaje que manejamos en el equipo. Si el código no se puede entender, no es fácil ni económico intervenir en él.
+**Diseñar soluciones sencillas, fáciles de entender y cambiar.** En lo que respecta al código, lo ideal es que sea lo más expresivo y fácil de entender posible. El código, como expresión de un conocimiento del negocio, debería reflejar los conceptos y el lenguaje que manejamos en el equipo. Si el código no se puede entender, no es fácil ni económico intervenir en él. Por eso, las soluciones ingeniosas, pero incomprensibles, no son una buena idea.
 
 **Documentar procesos, decisiones, soluciones y diseños**, y mantener al día esa documentación. La documentación debería estar siempre lo más cerca posible de donde se va a necesitar. En muchos, casos, la documentación se va a necesitar junto al código, lo cual nos permite establecer una espacie de reglas de preferencia a la hora de documentar:
 

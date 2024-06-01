@@ -16,8 +16,8 @@ Entre los diferentes _frameworks_ ágiles, _Scrum_ prescribe una serie de evento
 
 * **Sprint**: es el período de tiempo en que se articula la entrega de valor constante.
 * **Planificación de sprint**: la reunión al principio del sprint en donde se deciden en equipo los objetivos y se organiza cómo se van a lograr. Se podría decir que es donde se crea el _backlog de sprint_.
-* **Scrum diario o Daily scrum**: donde se adapta el backlog de sprint y se genera un plan para el día. No es una reunión para informar de lo que hemos hecho, cosa que debería quedar reflejada en otro lado, sino de lo que necesitamos hacer.
-* **Revisión del sprint**: se inspecciona lo conseguido en el sprint.
+* **Scrum diario o Daily scrum**: donde se adapta el backlog de sprint y se genera un plan para el día. No es una reunión para informar de lo que hemos hecho, cosa que debería quedar reflejada en otro lado, sino de lo que vamos a hacer y cómo.
+* **Revisión del sprint**: se inspecciona lo conseguido en el sprint respecto al producto.
 * **Retrospectiva del sprint**: se planifican formas de mejorar la calidad y la eficacia del trabajo.
 
 ¿Echas de menos el **Refinamiento** o _Gromming_? Pues lamento decirte que no es una ceremonia de Scrum, sino un proceso contínuo que se realiza a lo largo del _sprint_ para descomponer y afinar más el trabajo pendiente. La palabra refinamiento solo aparece una vez en la _Guía_ y no precisamente para denominar una ceremonia. Eso sí, existen muchos materiales que la citan como la "quinta ceremonia no oficial" de _Scrum_. Si no es oficial, no es _Scrum_.
@@ -28,7 +28,7 @@ Pero también podemos encontrar fácilmente menciones a las _ceremonias Agile_. 
 
 ## ¿Hay ceremonias en otro frameworks?
 
-Lo cierto es que ni _Extreme Programming_ ni _Lean Software Development_ no prescriben este tipo de eventos o ceremonias. Eso no quiere decir que no sea necesario dedicar momentos a tomar decisiones sobre el trabajo que se va a llevar a cabo, o a revisar lo realizado.
+Lo cierto es que ni _Extreme Programming_ ni _Lean Software Development_ prescriben este tipo de eventos o ceremonias. Eso no quiere decir que no sea necesario dedicar momentos a tomar decisiones sobre el trabajo que se va a llevar a cabo, o a revisar lo realizado.
 
 Lo importante, en todo caso, no son las ceremonias _per se_, sino las necesidades que pretenden satisfacer. Así, por ejemplo:
 
@@ -40,4 +40,12 @@ Lo importante, en todo caso, no son las ceremonias _per se_, sino las necesidade
 
 Hay algo en común en todos estos puntos: son momentos para la obtención de feedback y cada uno corresponde a distintos ciclos.
 
-El problema surge cuando convertimos estas ceremonias en rituales.
+## Fake scrum
+
+El problema surge cuando convertimos estas ceremonias en rituales vacíos de su contenido.
+
+* Cuando el _sprint_ es un periodo de tiempo que o bien no significa nada porque no hay entrega de valor, o bien se convierte en un _deadline_, en un plazo.
+* Cuando la planificación es solo la selección de las tarjetas/tareas que vamos a realizar.
+* Cuando la daily es una reunión de reporting en la que se cuenta lo que se ha hecho, y no se organiza el equipo para lo que hay que hacer.
+* Cuando la revisión del sprint es un recuento de tareas hechas vs tareas no completadas. 
+  * Cuando la retrospectiva no se centra en la forma en que trabajamos y qué necesitamos para mejorarla, sino que se enfoca a otros temas.

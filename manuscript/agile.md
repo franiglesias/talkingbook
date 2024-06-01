@@ -1,14 +1,14 @@
 # Qué es y que no es Agile
 
-_Agile_ no es una metodología, ni un proceso, ni un framework. Creo que hasta es incorrecto decir que es una mentalidad o _mindset_. Quizá podríamos decir que _Agile_ es una forma de reflexionar sobre el desarrollo de software. O, si lo prefieres, se trata de una filosofía para abordarlo.
+_Agile_ no es una metodología, ni un proceso, ni un _framework_. Creo que hasta es incorrecto decir que es una mentalidad o _mindset_. Quizá podríamos decir que _Agile_ es una forma de reflexionar sobre el desarrollo de software. O, si lo prefieres, se trata de una filosofía para abordarlo.
 
-Históricamente, podemos pensar que _Agile_ nace con el **Manifiesto Agile**. Sin embargo, el Manifiesto fue más un punto de encuentro para diversos grupos y profesionales que habían desarrollado sus propias metodologías y _frameworks_, como _extreme programming_, _scrum_, o _lean_. Incluso _DevOps_ podría considerarse una forma de _Agile_. Muchos de estos _frameworks_ están inspirados u obtienen ideas de las metodologías _Lean Manufacturing_ o el _Toyota Production System_.
+Históricamente, podemos pensar que _Agile_ nace con el **Manifiesto Agile**. Sin embargo, el Manifiesto fue más un punto de encuentro para diversos grupos y profesionales que ya habían desarrollado sus propias metodologías y _frameworks_, como _extreme programming_, _scrum_, o _lean_. Incluso _DevOps_ podría considerarse una forma de _Agile_. Muchos de estos _frameworks_ están inspirados u obtienen ideas de las metodologías _Lean Manufacturing_ o el _Toyota Production System_.
 
 ¿Por qué _Agile_? Pues porque los equipos de desarrollo de software entendieron que las metodologías clásicas de la ingeniería no funcionaban bien cuando se aplicaban al software. 
 
 Por lo general, la ingeniería física require un diseño meticuloso y una planificación cuidadosa antes de comenzar a implementar. No puedes empezar a construir un puente sin saber donde vas a poner los pilares, qué hay al otro lado, cómo se va a usar, qué peso va a tener que soportar, qué fuerzas pueden influir sobre él, como corrientes de agua o vientos, y un largo etcétera.
 
-En cierto sentido, la ingeniería física crea productos que han de acertar a la primera. Sin embargo, al requerir mucho tiempo de desarrollo y ejecución, es muy posible que cuando por fin han sido desplegados puedan haber ocurrido cambios en el entorno a los que ya no es posible adaptarse. Por eso, es necesario considerar muy cuidadosamente todas las variables en juego, partiendo de los requisitos del proyecto, pero también anticipando circunstancias futuras.
+Dicho de un modo sencillo: la ingeniería física crea productos que han de acertar a la primera. Sin embargo, al requerir mucho tiempo de desarrollo y ejecución, es muy posible que cuando por fin han sido desplegados puedan haber ocurrido cambios en el entorno a los que ya no es posible adaptarse. Por eso, es necesario considerar muy cuidadosamente todas las variables en juego, partiendo de los requisitos del proyecto, pero también anticipando circunstancias futuras.
 
 Claro que el software no tiene los mismos condicionantes. En comparación con cualquier ingeniería física, que trabaja con materiales sujetos a las leyes de la naturaleza, el software es mucho más libre. Puedes usar el software a medida que se construye, una vez que hay suficientes elementos desplegados. Incluso aunque esté incompleto puede proporcionar un valor. Además, es relativamente fácil de cambiar, lo que permite reaccionar cuando vemos que el negocio va cambiando de maneras que no habíamos previsto o, simplemente, cuando comprobamos que nos hemos equivocado en algo.
 
@@ -20,9 +20,9 @@ Lo primero que hay que tener en cuenta es que no es algo que se pueda conseguir 
 
 Es decir: un equipo no se vuelve _Agile_ porque le adjudiquemos esa etiqueta, o por introducir una serie de prácticas descontextualizadamente. Ni siquiera por seguir un _framework_ concreto. En vez de eso, un equipo aprende a trabajar de forma _Agile_ a medida que desarrolla un proyecto.
 
-No existe una receta para ser _Agile_ salvo aplicar, quizá, los principios del Manifiesto. Por otro lado, disponemos de frameworks como _Scrum_, _Extreme Programming_, _Kanban_ y otros menos conocidos que buscan articular una forma de trabajar ágilmente.
+No existe una receta para ser _Agile_ salvo aplicar, quizá, los principios del Manifiesto. Por otro lado, disponemos de frameworks como _Scrum_, _Extreme Programming_, _Kanban_ y otros menos conocidos que buscan articular una forma de trabajar ágilmente. Pero estas metodologías no define la agilidad.
 
-Pero si el manifesto te parece demasiado largo, quédate con esta definición de Allen Holub sobre _Agile_:
+Finalmente, si el manifesto te parece demasiado largo, quédate con esta definición de Allen Holub sobre _Agile_:
 
 * Trabajad en lotes pequeños
 * Hablad entre vosotras
