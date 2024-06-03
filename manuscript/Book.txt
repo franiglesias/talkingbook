@@ -9,7 +9,7 @@ incertidumbre.md
 j.md
 kanban.md
 loops.md
-manifesto.md
+manifiesto.md
 no-estimaciones.md
 ownership.md
 practicas_tecnicas.md
