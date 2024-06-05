@@ -1,4 +1,4 @@
-# Historias de Usuario
+# H de Historias de Usuario
 
 Según Wikipedia, la idea de _Historia de Usuario_ la introdujo Kent Beck en 1997, en el contexto del ya famoso proyecto _Chrysler C3_, en el cual definió las bases de lo que sería _Extreme Programming_, e introdujo prácticas técnicas como TDD o _pair programming_. En 1998, Alistair Cockburn, que estaba de visita en el proyecto y a quien conocerás por ser proponente de la Arquitectura Hexagonal, acuñó la frase "Una historia de usuario es la promesa de una conversación".
 

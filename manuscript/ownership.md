@@ -1,4 +1,4 @@
-# Ownership, Collective
+# O de Ownership: Collective Ownership
 
 La propiedad colectiva del código se refiere a que el código de un proyecto es de todo el equipo. Pertenece a toda persona que haya participado. Y, a la vez, no pertenece a nadie en particular.
 

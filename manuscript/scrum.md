@@ -1,4 +1,4 @@
-# Scrum
+# S de Scrum
 
 Creado por Ken Schwaber y Jeff Sutherland en los años 90, Scrum se ha convertido en un framework tan extendido que la mayoría de la gente lo identifica erróneamente con _Agile_. Tanto Schawber como Sutherland son firmantes originales del Manifiesto Ágil, que es de 2001. Es importante tener en mente lo que hemos mencionado en el capítulo dedicado a Agile: Scrum es una más de las propuestas metodológicas de desarrollo de software cuyos proponentes buscaron un punto de encuentro en el Manifiesto. Es importante entender que Scrum no nace de Agile.
 
@@ -30,9 +30,9 @@ Si los equipos son demasiado grandes, deberán reorganizarse como equipos más p
 
 **Desarrolladoras**: la función de las desarrolladoras es construir el incremento de valor del producto, para lo cual deben crear un plan, llamado _Backlog de Sprint,_ trabajar con calidad y adaptar el plan diario.
 
-**Propietaria de Producto**: su tarea básicamente consiste en maximizar el valor del producto resultante, para lo cual gestiona el _Backlog_, partiendo de las peticiones y necesidades de todas las partes interesadas en el producto (_stakeholders_). El _Backlog_ es el registro del trabajo pendiente, de las cosas que habría que hacer para que el producto aporte valor.
+**Propietaria de Producto o _Product Owner_**: su tarea básicamente consiste en maximizar el valor del producto resultante, para lo cual gestiona el _Backlog_, partiendo de las peticiones y necesidades de todas las partes interesadas en el producto (_stakeholders_). El _Backlog_ es el registro del trabajo pendiente, de las cosas que habría que hacer para que el producto aporte valor. Contrariamente a lo que se ve en algunos equipos, el rol de PR no implica dirigir el equipo o decidir lo que hay que hacer. La figura tiene sentido en tanto y cuanto no es posible tener a la cliente o usuaria real en conversación con el equipo. Una buena Product Owner puede ser un gran recurso a la hora de entender qué es lo más valioso que el equipo debería estar haciendo, algo que sí aporta a un equipo ágil.
 
-**Scrum Master**: su tarea es velar por el proceso _Scrum_, ayudando tanto a desarrolladoras, como propietaria del producto y stakeholders.
+**Scrum Master**: su tarea es velar por el proceso _Scrum_, ayudando tanto a desarrolladoras, como propietaria del producto y stakeholders. Es un rol muy poco comprendida, en gran parte porque no se sigue Scrum por la guía.
 
 ## La crítica a Scrum
 
@@ -42,23 +42,3 @@ Muchos proponentes de Agile reniegan de _Scrum_, no sin buenos motivos. Esto ocu
 * Ha sido _secuestrado_ por el management como forma de control del trabajo de los equipos de desarrollo.
 * Las certificaciones han prostituido la naturaleza ágil de Scrum.
 * Se han confundido roles, tales como el de _product owner_ o el de _scrum master_, con puestos. La necesidad de dotar de sentido a estos puestos, ha creado nuevas capas de management intermedio y burocracia... Justo lo que Agile trataba de evitar.
-
-
-
-
-
-
-Algunas ideas incorrectas sobre Agile:
-
-**El objetivo de Agile es conseguir más velocidad en el desarrollo**. Esto es falso. Como se afirma en el Manifesto se promueve un ritmo de desarrollo sostenible. En el largo plazo, los equipos Agiles genuinos son muy rápidos, porque han ido creando las condiciones para ello. Pero no porque hayan priorizado la velocidad de desarrollo, sea eso lo que sea, sino porque son capaces de definir lotes de trabajo que se pueden entregar rápidamente y de forma regular.
-
-**Estimar es parte de una metodología Agile.** Es otro mito. Las estimaciones pretenden cumplir una necesidad de la empresa como es la de establecer un marco temporal para la finalización de un proyecto. Esto también deriva de la gestión de proyectos de ingeniería física. Sin embargo, en Agile existe un producto en desarrollo contínuo: hay un momento en que se puede empezar a trabajar con el producto y se van incorporando nuevas prestaciones. Idealmente, de forma regular y sostenible.
-
-Derivado de las estimaciones está el concepto de los puntos de historia. Fueron introducidos como una forma de desviar la atención sobre las medidas temporales (¿cuántas horas/días requiere este desarrollo?) y sustituirlo por otra forma de medición del esfuerzo que puede requerir un desarrollo (los famosos puntos). El objetivo era proteger a los equipos de desarrollo de los plazos de entrega. Sin embargo, siempre hacemos una traducción de los puntos a tiempo, por lo que pierden su sentido.
-
-**El Product Owner es el encargado de dirigir el equipo y decidir lo que hay que hacer**. Para empezar, la figura del Product Owner es exclusiva de Scrum. Un equipo Agile no necesita Product Owner. En principio, el rol de Product Owner es actuar más o menos como representación del cliente en el equipo, ayudando al equipo de desarrollo a entender cuáles son las necesidades del cliente. En la práctica, lo PO oscilan entre una especie de Project Manager y un gestor de tarjetas de Jira.
-
-La figura tiene sentido en tanto y cuanto no es posible tener a la cliente o usuaria real en conversación con el equipo. De todos modos, una buena Product Owner puede ser un gran recurso a la hora de entender qué es lo más valioso que el equipo debería estar haciendo, algo que sí aporta a un equipo ágil.
-
-**Scrum Master**. Es un rol muy poco comprendida, en gran parte porque no se sigue Scrum por la guía. El rol forma parte del framework Scrum, pero un equipo Agile no lo necesita. 
-

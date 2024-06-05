@@ -1,2 +1,2 @@
-# QA
+# Q de Quality Assurance
 

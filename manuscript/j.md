@@ -1,3 +1,3 @@
-# J
+# J de...
 
 ¿juego de planning?

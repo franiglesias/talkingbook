@@ -1,4 +1,4 @@
-# Incertidumbre
+# I de Incertidumbre
 
 Muchas veces hemos escuchado o pronunciado la expresión "esta historia o tarea tiene mucha incertidumbre". Hablar de incertidumbre es hablar de nuestra falta de conocimiento ante una demanda de desarrollo.
 

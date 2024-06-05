@@ -1,4 +1,4 @@
-# Prácticas Técnicas
+# P de Prácticas Técnicas
 
 Las prácticas técnicas ágiles son una de las grandes olvidadas en los equipos de tecnología. "¿Y qué eso?", preguntarán muchas personas.
 

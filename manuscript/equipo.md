@@ -1,4 +1,4 @@
-# Equipo
+# E de Equipo
 
 Digámoslo con claridad: juntar a un cierto número de personas y ponerlas a trabajar en el mismo lugar no es crear un equipo. Para que exista un equipo tiene que haber un objetivo común, unos valores e intereses compartidos. Un equipo tiene que ser algo más grande que la suma de sus componentes.
 

@@ -1,4 +1,4 @@
-# Qué es y que no es Agile
+# A de Agile
 
 _Agile_ no es una metodología, ni un proceso, ni un _framework_. Creo que hasta es incorrecto decir que es una mentalidad o _mindset_. Quizá podríamos decir que _Agile_ es una forma de reflexionar sobre el desarrollo de software. O, si lo prefieres, se trata de una filosofía para abordarlo.
 

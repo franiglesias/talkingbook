@@ -1,4 +1,4 @@
-# Kanban
+# K de Kanban
 
 Kanban es el framework Agile que probablemente no sabes que estás usando. O bueno, al menos es casi seguro que estarás usando uno de sus artefactos característicos: el tablero Kanban. La metodología nació en Toyota, creada a finales de los años 40 del siglo XX por el ingeniero Taiichi Ōno, como parte de la gestión de stocks. Básicamente, se trataba de sincronizar la producción con la demanda real.
 

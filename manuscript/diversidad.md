@@ -1,4 +1,4 @@
-# Diversidad
+# D de Diversidad
 
 A veces limitamos la definición de diversidad a la presencia o no de mujeres en los departamentos de tecnología, y particularmente en los equipos de desarrollo de software. Diversidad abarca esto y mucho más, si bien la falta de representación de mujeres en tecnología es especialmente dolorosa, sobre todo si pensamos que en sus orígenes la informática se consideraba una carrera femenina. Y no porque digamos que la primera programadora fue Ada Lovelace, sino porque en su momento el trabajo con ordenadores permitía una ocupación _decorosa_ y adecuada para mujeres trabajadoras, aunque no dejaban de estar subordinadas a los hombres en muchos casos. Esto no obedecía a un punto de vista feminista, sino más bien todo lo contrario. 
 

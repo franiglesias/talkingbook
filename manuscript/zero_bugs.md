@@ -1,4 +1,4 @@
-# Zero Bugs
+# Z de Zero Bugs
 
 Todas conocemos la historia del primer bug: una polilla atrapada en un relé, hallazgo que se atribuye a Grace Hooper, aunque parece ser más correcto atribuirlo en conjunto al equipo que estaba trabajando en ese ordenador.
 

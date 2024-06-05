@@ -1,4 +1,4 @@
-# Vertical (Rebanado de historias)
+# V de Vertical (Rebanado de historias)
 
 En la ingeniería física es frecuente que un sistema se divida en subsistemas o componentes y que cada uno de ellos sea construído de forma separada. Cuando todos los elementos están disponibles, se ensambla el sistema completo. Por esa razón, es muy importante establecer unas especificaciones muy precisas y esforzarse en cumplirlas. En caso contrario, se producirán problemas, que pueden ser muy graves y difíciles de solucionar.
 

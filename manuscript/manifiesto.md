@@ -1,10 +1,16 @@
-# Manifiesto Agile
+# M de Manifiesto Agile
 
-El Manifiesto por el Desarrollo Ágil de Software fue creado en 2001 por un grupo de 17 programadores reunidos en un resort de ski en Utah. Representaban diversas metodologías alternativas para el desarrollo de software y su objetivo era tratar de acordar una serie de elementos comunes, a pesar de las diferentes aproximaciones que traían de partida. 
+El Manifiesto por el Desarrollo Ágil de Software fue creado en 2001 por un grupo de 17 señores programadores reunidos en un resort de ski en Utah. Representaban diversas metodologías alternativas para el desarrollo de software y su objetivo era tratar de acordar una serie de elementos comunes, a pesar de las diferentes aproximaciones que traían de partida. 
+
+
+
+## Introducción
 
 El manifiesto comienza con la siguiente introducción:
 
 > Estamos descubriendo formas mejores de desarrollar software tanto por nuestra propia experiencia como ayudando a terceros. A través de este trabajo hemos aprendido a valorar:
+
+##  Valores
 
 A continuación se enumeran los cuatro valores del agilismo:
 
@@ -19,18 +25,21 @@ Y se hace una aclaración importante:
 
 En otras palabras: el hecho de valorar más unos elementos sobre otros, no implica su negación. Es decir: procesos y herramientas son importantes, pero subordinados a los individuos. Es necesaria la documentación, pero valoramos más la entrega de software funcional. Tiene que haber una negociación de contratos con el cliente, pero en último término es esencial desarrollar una colaboración productiva con él. Y, por último, se necesita un plan y saber qué se quiere conseguir, pero es más importante ser capaz de responder al cambio.
 
+## Principios
+
 Los valores ágiles generan un conjunto de principios:
 
 > Nuestra mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de software con valor.
 
-
+Cuando hablamos de entrega de valor, estamos hablando siempre de valor de negocio. Lo que importa no el código, sino la funcionalidad que habilita para el cliente.
 
 > Aceptamos que los requisitos cambien, incluso en etapas tardías del desarrollo. Los procesos Ágiles aprovechan el cambio para proporcionar ventaja competitiva al cliente.
 
+Bajo este principio subyace la idea de que el cambio es necesario para adaptarse al mercado del negocio del cliente. Si el producto no funciona, el producto tiene que cambiar. Si el mercado se mueve en una dirección, el producto debe seguirla.
 
 > Entregamos software funcional frecuentemente, entre dos semanas y dos meses, con preferencia al periodo de tiempo más corto posible.
 
-
+La entrega frecuente es fundamental para que el cliente pueda pivotar de forma eficaz. Cuanto más tiempo tarda el software en estar funcionando, más difícil es entender si va en la dirección correcta o debe cambiar.
 
 > Los responsables de negocio y los desarrolladores trabajamos juntos de forma cotidiana durante todo el proyecto.
 
@@ -85,3 +94,43 @@ Esto quiere decir que incluso en una misma empresa lo lógico sería que cada eq
 
 Yo diría que esta es la única prescripción concreta que propone el Manifiesto. Esta reflexión es la que solemos denominar retrospectiva y su único objetivo es evaluar y reconducir el proceso que el equipo sigue para ser más eficiente y trabajar mejor.
 
+## Las críticas a Agile
+
+Se han publicado muchas críticas al movimiento Agile, algunas de ellas son incluso buenas críticas. Por desgracia, muchas de las que se pueden leer se equivocan en aspectos muy fundamentales. Por ejemplo, son frecuentes las críticas que en realidad se dirigen a frameworks concretos, particularmente a Scrum. Y lo curioso es que, en ocasiones esas mismas críticas son compatibles con el Manifiesto Agile. También es cierto que muchas críticas obvian que el Manifiesto habla del desarrollo de software específicamente, no del desarrollo de producto o de negocio.
+
+De hecho, gran parte de la crítica más sólida a Agile viene de las propias _agilistas_. Por ejemplo, esta cita del _Blog de un apostol de Scrum y Kanban_:
+
+> Otra versión del Manifiesto Ágil revisada que me gusta es la de Alexey Krivitky: "Después de 20 años tratando de entender y explicar el Manifiesto Ágil he llegado a esta versión simplificada que parece entregar el mensaje con menos palabras".
+> 
+> * Personas sobre procesos
+> * Producto sobre especulaciones
+> * Cocreación sobre política
+> * Realidad sobre planes
+> 
+> https://scrum.menzinsky.com/2019/07/el-manifiesto-agil-deberia-de.html
+
+Es muy interesante porque, siendo totalmente fiel a la intención del Manifiesto, resulta mucho más precisa y accionable que el original.
+
+También podemos ver como una crítica en la línea Agile el _Manifiesto por la Artesanía de software_, que reza así:
+
+> Como aspirantes a Artesanos del Software estamos elevando el listón de desarrollo de software profesional practicando y ayudando a otros a aprender el oficio. A través de este trabajo hemos llegado a valorar:
+>
+> * No solo software que funciona, sino también software bien diseñado
+> * No solo responder al cambio, sino también agregar valor constantemente
+> * No solo individuos e interacciones, sino también una comunidad de profesionales
+> * No solo colaboración de clientes, sino también asociaciones productivas
+> 
+> Es decir, en la búsqueda de los elementos de la izquierda, hemos encontrado indispensables los elementos de la derecha.
+
+También podemos ver que completa y extiende la definición de cada uno de los cuatro valores.
+
+El mismísimo Kent Beck propuso en 2011 una revisión del Manifiesto:
+
+> * Visión y disciplina de equipo, por encima de individuos y su interacción
+> * Aprendizaje validado, por encima de software que funciona
+> * Descubrimiento con el cliente, por encima de la colaboración con el cliente
+> * Iniciar el cambio, por encima la respuesta al cambio
+> 
+> https://www.forbes.com/sites/stevedenning/2011/05/04/innovation-applying-inspect-adapt-to-the-agile-manifesto/
+
+Se puede apreciar en todas estas nuevas formulaciones una tendencia: no se trata de negar el Manifiesto, sino de seguir profundizando en la visión ágil del desarrollo de software. Al fin y al cabo, una de las principales ideas de Agile es justamente la revisión contínua, así que tiene mucho sentido que no consideremos el Manifiesto Agile como las tablas de la Ley, sino como una filosofía en progreso y definición constante.

@@ -1,4 +1,4 @@
-# Funcionando (Software)
+# F de Software Funcionando
 
 El _Manifiesto Agile_ afirma que prefiere Software funcionando en producción que documentación extensiva. 
 

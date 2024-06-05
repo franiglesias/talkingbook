@@ -1,4 +1,4 @@
-# Ceremonias
+# C de Ceremonias
 
 La única vez en la que el _Manifiesto Agile_ prescribe algo parecido a una actividad concreta es cuando dice que el equipo periódicamente reflexiona sobre su trabajo:
 
