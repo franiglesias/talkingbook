@@ -2,17 +2,19 @@
 
 Todas conocemos la historia del primer bug: una polilla atrapada en un relé, hallazgo que se atribuye a Grace Hooper, aunque parece ser más correcto atribuirlo en conjunto al equipo que estaba trabajando en ese ordenador.
 
+## Qué es un bug
+
 Solemos definir un bug como un mal funcionamiento de un sistema de software. Curiosamente, ese primer bug, tenía más que ver con el hardware. La cuestión es que hay múltiples cosas que pueden fallar, desde elementos de infraestructura hasta la lógica expresada en el código. Si nos ceñimos al código, un bug es algo un tanto más complicado de definir porque habría que distinguir entre lo que podríamos considerar un comportamiento incorrecto, cuando el software no hace lo que se espera, y un fallo manifestado en forma de un error que impide que el sistema funcione.
 
 Como era de esperar, los bugs tienen un coste económico: si no se puede usar el software, se detienen los ingresos que genera, o se incrementan los costes que evitaba. O, en otros casos, aumenta la posibilidad de que un cliente deje de trabajar con nosotras. En resumidas cuentas: un bug es dinero que se pierde.
 
 La política de Zero bugs consiste en dejar de registrar, clasificar y seguir bugs y dedicarse a resolverlos de forma inmediata, en cuanto nos informan de ellos.
 
-Esto hay que verlo en un contexto ágil. En él, asumimos que las entregas de valor son pequeñas y bien definidas. Si aparece un bug una vez desplegada la feature, es muy probable que haya sido introducido o habilitado por ese cambio. Por tanto, la localización y subsanación debería ser rápida. También asumimos una cobertura razonable de tests, al menos en las partes críticas del sistema, y buenos sistemas de integración de cambios y despliegue. Todo esto contribuye a garantizar que podemos desplegar software sin defectos evidentes.
+## _Zero bugs_ la forma ágil de gestionarlos
 
-Eso no evita su aparición, pero permite que cuando ocurre sean relativamente fáciles de controlar.
+Esto hay que verlo en un contexto ágil. En él, asumimos que las entregas de valor son pequeñas y bien definidas. Si aparece un bug una vez desplegada una entrega, es muy probable que haya sido introducido o habilitado por dicho cambio. Por tanto, la localización y subsanación debería ser rápida. También asumimos una cobertura razonable de tests, al menos en las partes críticas del sistema, y buenos sistemas de integración de cambios y despliegue. Todo esto contribuye a garantizar que podemos desplegar software sin defectos evidentes, pero también a localizarlos de forma relativamente fácil cuando ocurren.
 
-Una vez que un bug ha sido reportado, lo primero sería centrarnos en él y establecer una o más hipótesis y expresarlas en forma de test. Un bug normalmente es el resultado de un ejemplo que no ha sido testeado. Esto puede pasar porque carecíamos de información en el momento de desarrollo, bien porque no identificábamos ese ejemplo como un caso particular. También puede ocurrir que un cierto cambio habilite un bug que antes no se había manifestado.
+Una vez que un bug ha sido reportado, lo primero sería centrarnos en él y establecer una o más hipótesis y expresarlas en forma de test. Un bug normalmente es el resultado de un ejemplo que no ha sido testeado. Esto puede pasar porque carecíamos de información en el momento de desarrollo, bien porque no identificábamos ese ejemplo como un caso particular. También puede ocurrir que un cierto cambio habilite un _bug_ que antes no se había manifestado.
 
 En cualquier caso, una vez que tenemos un test, modificamos el código para hacerlo pasar, junto con todos los demás teste existentes. De este modo, subsanamos el bug y podemos desplegar este nuevo cambio para arreglarlo en producción. Entonces volvemos al desarrollo habitual.
 
@@ -44,12 +46,12 @@ En muchas organizaciones se hace triaje de bugs. El triaje sirve para decidir qu
 
 A la vez que escribo esto, debo reconocer que se me encienden varias alarmas. En todo caso, es cierto que a poco que una organización sea grande, es difícil saber a quién dirigir el reporte de un defecto, por lo que un proceso de triaje tiene sentido. Sin embargo, corre el riesgo de convertirse en un freno. En muchos casos, la solución del bug puede ser evidente para el equipo y todo el proceso de seguimiento y triaje puede hacer que tarde mucho en hacerse la corrección.
 
-Así, es necesario garantizar que no pasa más tiempo del necesario entre que se informa de un defecto y se le pone remedio, para lo cual debe llegar cuanto antes al equipo de desarrollo.
+Así, es necesario garantizar que no pasa más tiempo del necesario entre que se informa de un defecto y se le pone remedio, para lo cual debe llegar cuanto antes al equipo de desarrollo. El mejor escenario, en estos casos, es que el equipo tenga _ownership_ de su producto o, en su caso, de su micro-servicio. Si existen muchas dependencias entre equipos y proyectos, puede ser muy difícil determinar el punto de fallo, o decidir quién tiene la responsabilidad de remediar la causa.
 
-## Buenas prácticas técnicas y zero-bugs
+## Buenas prácticas técnicas y _zero-bugs_
 
-Aplicar buenas prácticas técnicas en el desarrollo es la forma de prevenir la aparición de defectos.
+Aplicar buenas prácticas técnicas en el desarrollo es la mejor forma de prevenir la aparición de defectos pero, ante todo, es la mejor forma para conseguir que sea fácil identificar sus causas e introducir una solución.
 
-El refactor continuado no evita por sí mismo los defectos, pero es más fácil prevenirlos en un software bien estructurado que refleja de forma clara el conocimiento de negocio.
+El refactor continuado no evita por sí mismo los defectos, sin embargo es más fácil prevenirlos en un software bien estructurado que refleja de forma clara el conocimiento de negocio. Cuando seguimos principios de diseño y construimos software basado en pequeñas unidades, con responsabilidades bien acotadas, bloques de código reducidos, etc., determinar la causa que ha originado un error suele ser un proceso bastante sencillo y preciso.
 
-El testing nos ayuda a reducir las oportunidades de introducir bugs, y la razón es que cuantos más casos hayamos cubierto con tests, menos casos quedarán en estado desconocido.
+El testing nos ayuda a reducir las oportunidades de introducir bugs. En general, podríamos decir que los bugs aparecen en aquellas partes del código en las que no hemos podido definir el comportamiento esperado mediante al menos un test. Son zonas oscuras del comportamiento del software.
