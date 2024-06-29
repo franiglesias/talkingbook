@@ -1,4 +1,4 @@
-# W de Work in Progress (WIP)
+# W de Work in Progress
 
 WIP es el acrónimo en inglés de Trabajo en Progreso o _Work In Progress_. El trabajo en progreso en un equipo es todo el trabajo que está en marcha, pero sin terminar.
 

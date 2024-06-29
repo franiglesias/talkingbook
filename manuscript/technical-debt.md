@@ -1,4 +1,4 @@
-# T de Técnica: Deuda Técnica
+# T de Deuda Técnica
 
 La idea de la deuda técnica es una metáfora usada por Ward Cunningham para explicar la refactorización de un producto financiero llamado _WyCash_. Seguramente, el hecho de estar trabajando en ese dominio facilitó el uso de esta analogía del mundo de las finanzas. 
 

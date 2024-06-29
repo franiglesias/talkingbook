@@ -1,4 +1,4 @@
-# L de Loops (Bucles)
+# L de Feedback Loops
 
 Todo en _Agile_ gira en torno a bucles. O más bien espirales. Los bucles ágiles no consisten en girar sobre un mismo punto una y otra vez, sino un movimiento constante de autoevaluación, revisión del conocimiento y evolución. El desarrollo de software agile pretende ser espiral, o sea: incremental e iterativo.
 
@@ -31,7 +31,7 @@ Pero si hay un framework que haya profundizado en la idea del bucle es Extreme P
 
 La duración de alguno de los ciclos puede variar dependiendo del tipo de producto. Por ejemplo, si estamos hablando de una aplicación web, prácticamente cada feature se puede habilitar en el momento, lo que hace que el ciclo de iteración y release coincidan. 
 
-Pero si se trata de una aplicación móvil, los ciclos son diferentes. Incluso publicando versiones con cierta frecuencia, acumulamos distintas features y mejoras para desplegarlas juntas.
+Pero si se trata de una aplicación móvil, los ciclos son diferentes. Incluso publicando versiones con cierta frecuencia, acumulamos distintas _features_ y mejoras para desplegarlas juntas.
 
-
+En cualquier caso, estos bucles tienen sentido en el marco de prácticas concretas diseñadas justamente para que el feedback sea utilizado.
 
