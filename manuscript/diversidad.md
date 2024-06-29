@@ -4,16 +4,16 @@ A veces limitamos la definición de diversidad a la presencia o no de mujeres en
 
 Gracias a eso, contamos con muchas mujeres referentes en el campo, que realizaron grandes aportaciones entre los años 40 y 70, como pueden ser, por citar alguna de las más conocidas:
 
-* Grace Hopper, primera programadora del Mark I, creadora del primer compilador e inventora del lenguaje COBOL.
-* Margaret Hamilton, que desarrolló sistemas de predicción meteorológica y diseño el sistema de navegación del programa Apolo.
-* Hady Lamar, desarrolló técnicas que constituyen la base de las comunicaciones inalámbricas actuales. 
-* Jude Milhon, activista hacker, pionera en la lucha por los derechos digitales y acuñadora del término cyberpunk.
-* Evelyn Berezin, desarrolló el primer sistema informatizado de reservas para aerolíneas.
-* Mary Allen Wilkes, primera persona en usar un ordenador en su casa y ¡teletrabajar!
+* _Grace Hopper_, primera programadora del Mark I, creadora del primer compilador e inventora del lenguaje COBOL.
+* _Margaret Hamilton_, que desarrolló sistemas de predicción meteorológica y diseño el sistema de navegación del programa Apolo.
+* _Hady Lamar_, desarrolló técnicas que constituyen la base de las comunicaciones inalámbricas actuales. 
+* _Jude Milhon_, activista hacker, pionera en la lucha por los derechos digitales y acuñadora del término cyberpunk.
+* _Evelyn Berezin_, desarrolló el primer sistema informatizado de reservas para aerolíneas.
+* _Mary Allen Wilkes_, primera persona en usar un ordenador en su casa y ¡teletrabajar!
 
 Posteriormente, la profesión fue llenándose de varones hasta el punto de que la representación de mujeres alcanzó mínimos históricos. Hoy por hoy, dependiendo de las áreas, las cifras van mejorando, pero aún estamos lejos de un equilibrio.
 
-Sin embargo, diversidad no es solo una cuestión de representación masculina frente a femenina, aunque sea un tema fundamental. También tenemos un problema de diversidad relacionado con otros elementos demográficos como la etnicidad o la edad, y por supuesto con la diversidad física e intelectual. Quizá lo más correcto sería hablar de la sobre-representación de un grupo socio-demográfico muy específico: varones blancos y relativamente jóvenes.
+Sin embargo, diversidad no es solo una cuestión de representación masculina frente a femenina, aunque sea un tema fundamental. También tenemos un problema de diversidad relacionado con otras características demográficas como la etnicidad o la edad, y por supuesto con la diversidad física e intelectual. Quizá lo más correcto sería hablar de la sobre-representación de un grupo socio-demográfico muy específico: varones blancos y relativamente jóvenes.
 
 Es interesante pensar en las consecuencias de la falta de diversidad y cómo afrontarlo desde nuestras posiciones en la industria. 
 

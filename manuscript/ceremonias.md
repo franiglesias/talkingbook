@@ -40,12 +40,12 @@ Lo importante, en todo caso, no son las ceremonias _per se_, sino las necesidade
 
 Hay algo en común en todos estos puntos: son momentos para la obtención de feedback y cada uno corresponde a distintos ciclos.
 
-## Fake scrum
+## Fake o Dark scrum
 
 El problema surge cuando convertimos estas ceremonias en rituales vacíos de su contenido.
 
 * Cuando el _sprint_ es un periodo de tiempo que o bien no significa nada porque no hay entrega de valor, o bien se convierte en un _deadline_, en un plazo.
 * Cuando la planificación es solo la selección de las tarjetas/tareas que vamos a realizar.
-* Cuando la daily es una reunión de reporting en la que se cuenta lo que se ha hecho, y no se organiza el equipo para lo que hay que hacer.
-* Cuando la revisión del sprint es un recuento de tareas hechas vs tareas no completadas. 
-  * Cuando la retrospectiva no se centra en la forma en que trabajamos y qué necesitamos para mejorarla, sino que se enfoca a otros temas.
+* Cuando la _daily scrum_ es una reunión de reporting en la que se cuenta lo que se ha hecho, y no se organiza el equipo para lo que hay que hacer.
+* Cuando la revisión del sprint es un recuento de tareas hechas vs. tareas no completadas. 
+* Cuando la retrospectiva no se centra en la forma en que trabajamos y qué necesitamos para mejorarla, sino que se enfoca a otros temas.

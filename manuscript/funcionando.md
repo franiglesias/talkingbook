@@ -18,7 +18,7 @@ Por esa razón, es importante decidir qué documentar, cuando y cómo.
 
 En el capítulo sobre Equipo, mencionábamos diversos lugares y formas en las que poner documentación. Así, por ejemplo, la primera línea de documentación sobre el código, debería ser el propio código. Complementada por los comentarios, que añadirían contexto sobre la toma de decisiones. Y se completaba la lista con una serie de documentos que se ubicarían cada vez más lejos del código, a medida que sea menos necesaria para el día a día y que abarque aspectos más generales.
 
-En ese capítulo no mencionamos un par de aspectos, así que lo hacemos ahora. El primero, son los tests como documentación. El segundo es lo que ocurre cuando otros equipos necesitan interactuar con nuestro software.
+En ese capítulo no llegamos a mencionar un par de aspectos, así que lo hacemos ahora. El primero, son los tests como documentación. El segundo es lo que ocurre cuando otros equipos necesitan interactuar con nuestro software.
 
 Los tests son una forma viva de documentación, que nos habla no solo de como funciona el código, sino también cómo se usa.
 

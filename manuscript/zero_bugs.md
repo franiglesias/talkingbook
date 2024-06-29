@@ -48,10 +48,12 @@ A la vez que escribo esto, debo reconocer que se me encienden varias alarmas. En
 
 Así, es necesario garantizar que no pasa más tiempo del necesario entre que se informa de un defecto y se le pone remedio, para lo cual debe llegar cuanto antes al equipo de desarrollo. El mejor escenario, en estos casos, es que el equipo tenga _ownership_ de su producto o, en su caso, de su micro-servicio. Si existen muchas dependencias entre equipos y proyectos, puede ser muy difícil determinar el punto de fallo, o decidir quién tiene la responsabilidad de remediar la causa.
 
+Si tienes bugs de larga duración, que llevan meses, o incluso años en tu backlog o en tu sistema de tracking, la mejor estrategia, de largo, es eliminarlos de ese registro y empezar de cero. Si alguno de esos bugs era importante, puedes tener por seguro que volverá en seguida.
+
 ## Buenas prácticas técnicas y _zero-bugs_
 
-Aplicar buenas prácticas técnicas en el desarrollo es la mejor forma de prevenir la aparición de defectos pero, ante todo, es la mejor forma para conseguir que sea fácil identificar sus causas e introducir una solución.
+Aplicar buenas prácticas técnicas en el desarrollo es la mejor forma de prevenir la aparición de defectos, pero, ante todo, es la mejor forma para conseguir que sea fácil identificar sus causas e introducir una solución.
 
-El refactor continuado no evita por sí mismo los defectos, sin embargo es más fácil prevenirlos en un software bien estructurado que refleja de forma clara el conocimiento de negocio. Cuando seguimos principios de diseño y construimos software basado en pequeñas unidades, con responsabilidades bien acotadas, bloques de código reducidos, etc., determinar la causa que ha originado un error suele ser un proceso bastante sencillo y preciso.
+El refactor continuado no evita por sí mismo los defectos, sin embargo, es más fácil prevenirlos en un software bien estructurado que refleja de forma clara el conocimiento de negocio. Cuando seguimos principios de diseño y construimos software basado en pequeñas unidades, con responsabilidades bien acotadas, bloques de código reducidos, etc., determinar la causa que ha originado un error suele ser un proceso bastante sencillo y preciso.
 
 El testing nos ayuda a reducir las oportunidades de introducir bugs. En general, podríamos decir que los bugs aparecen en aquellas partes del código en las que no hemos podido definir el comportamiento esperado mediante al menos un test. Son zonas oscuras del comportamiento del software.
