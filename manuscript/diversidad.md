@@ -5,9 +5,9 @@ A veces limitamos la definición de diversidad a la presencia o no de mujeres en
 Gracias a eso, contamos con muchas mujeres referentes en el campo, que realizaron grandes aportaciones entre los años 40 y 70, como pueden ser, por citar alguna de las más conocidas:
 
 * _Grace Hopper_, primera programadora del Mark I, creadora del primer compilador e inventora del lenguaje COBOL.
-* _Margaret Hamilton_, que desarrolló sistemas de predicción meteorológica y diseño el sistema de navegación del programa Apolo.
+* _Margaret Hamilton_, que desarrolló sistemas de predicción meteorológica y diseñó el sistema de navegación del programa Apolo.
 * _Hady Lamar_, desarrolló técnicas que constituyen la base de las comunicaciones inalámbricas actuales. 
-* _Jude Milhon_, activista hacker, pionera en la lucha por los derechos digitales y acuñadora del término cyberpunk.
+* _Jude Milhon_, activista hacker, pionera en la lucha por los derechos digitales y acuñadora del término _cyberpunk_.
 * _Evelyn Berezin_, desarrolló el primer sistema informatizado de reservas para aerolíneas.
 * _Mary Allen Wilkes_, primera persona en usar un ordenador en su casa y ¡teletrabajar!
 

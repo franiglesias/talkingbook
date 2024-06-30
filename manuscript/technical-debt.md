@@ -39,6 +39,3 @@ Escribir mal código es como suscribir un préstamo y gastar más dinero del que
 El propósito del refactor como pago de la deuda técnica es asegurar que el conocimiento reflejado en el código es una representación lo más exacta posible del conocimiento que tiene el equipo sobre el negocio. De este modo, cuando se produzcan cambios, el código estará mejor preparado para incorporarlos de forma rápida y efectiva.
 
 Si el conocimiento en el código tiene un gran desfase con el conocimiento del equipo, cada nueva prestación o cada cambio será más difícil de incorporar y el desarrollo se hará más lento. Es entonces cuando los intereses se convierten en una carga.
-
-
-

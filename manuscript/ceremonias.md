@@ -14,7 +14,7 @@ De hecho, el _Manifiesto_ tampoco dice que tenga que hacerse algo así como una 
 
 Entre los diferentes _frameworks_ ágiles, _Scrum_ prescribe una serie de eventos, cuatro de ellos más conocidos como _ceremonias_.
 
-* **Sprint**: es el período de tiempo en que se articula la entrega de valor constante.
+* **Sprint**: es el período de tiempo en que se articula la entrega constante de valor.
 * **Planificación de sprint**: la reunión al principio del sprint en donde se deciden en equipo los objetivos y se organiza cómo se van a lograr. Se podría decir que es donde se crea el _backlog de sprint_.
 * **Scrum diario o Daily scrum**: donde se adapta el backlog de sprint y se genera un plan para el día. No es una reunión para informar de lo que hemos hecho, cosa que debería quedar reflejada en otro lado, sino de lo que vamos a hacer y cómo.
 * **Revisión del sprint**: se inspecciona lo conseguido en el sprint respecto al producto.
@@ -32,8 +32,8 @@ Lo cierto es que ni _Extreme Programming_ ni _Lean Software Development_ prescri
 
 Lo importante, en todo caso, no son las ceremonias _per se_, sino las necesidades que pretenden satisfacer. Así, por ejemplo:
 
-* El _sprint_ define un período al final del cual existe un compromiso de entrega de valor. El objetivo sería aportar un cierto nivel de predictibilidad, de modo que diferentes equipos de la empresa puedan sincronizarse. Es una forma de _estimación_, otro concepto que no existe en _agile_. De hecho, un equipo _agile_ busca entregar el valor de forma sostenida, en pequeñas unidades y el ideal es que estas unidades requieran un esfuerzo similar y lograr la predictibilidad sabiendo que cada unidad de desarrollo se puede entregar en un tiempo fijo y muy corto, como un día o menos.
-* La planificación busca tomar decisiones acerca de lo que se debe hacer. En _Extreme Programming_, esa decisión es el resultado de hablar con el cliente sobre qué necesita _ahora_.
+* El _sprint_ define un período al final del cual existe un compromiso de entrega de valor. El objetivo sería aportar un cierto nivel de predictibilidad, de modo que diferentes equipos de la empresa puedan sincronizarse. Es una forma de _estimación_, otro concepto que no existe en _agile_. De hecho, un equipo _agile_ busca entregar el valor de forma sostenida, en pequeñas unidades y el ideal es que estas unidades requieran un esfuerzo similar y lograr la predictibilidad sabiendo que cada unidad de desarrollo se puede entregar en un tiempo fijo y muy corto.
+* La planificación busca tomar decisiones acerca de como hacer lo que se haya decidido hacer. En _Extreme Programming_, esa decisión es el resultado de hablar con el cliente sobre qué necesita _ahora_.
 * La reunión diaria o _daily_ tiene el objetivo de organizar el trabajo necesario para esa jornada, identificando posibles problemas y formas de solucionarlos. En el fondo, la existencia de una _daily_ parece implicar que cada persona del equipo trabaja separadamente. En _Extreme Programming_, se favorece el trabajo en parejas (_pair-programming_) o en equipo (_mob-programming_) como forma de prevenir ese tipo de problemas que se discuten o se resuelven en el momento.
 * La revisión del sprint sería una forma de comprobar si se han conseguido los objetivos fijados en la planificación. Básicamente, lo que buscamos es saber si hemos estado trabajando en lo que nos habíamos propuesto.
 * La retrospectiva tiene la función de analizar nuestra forma de trabajar y encontrar formas de mejorarla. 

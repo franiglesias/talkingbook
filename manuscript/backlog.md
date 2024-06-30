@@ -1,12 +1,10 @@
 # B de Backlog
 
-En metodologías como _Scrum_ el _backlog_ es, o debería ser, una lista de _historias de usuario_ ordenada por prioridad. En otras palabras, un _backlog_ es una lista de deseos que expresan los clientes sobre el producto que estamos desarrollando. Lo que no es, o no debería ser, es una lista de tareas, ni tampoco una colección de ideas interesantes para hacer en un futuro que igual nunca llega.
+En la metodología _Scrum_ el _backlog_ es, o debería ser, una lista de _historias de usuario_ ordenada por prioridad. En otras palabras, un _backlog_ es una lista de deseos que expresan los clientes sobre el producto que estamos desarrollando. Lo que no es, o no debería ser, es una lista de tareas, ni tampoco una colección de ideas interesantes para hacer en un futuro que nunca llega.
 
 No es una lista de tareas porque cuando hablemos de historias de usuario, veremos que estas son la expresión breve de los deseos o necesidades del cliente y que se han de plantear como el inicio de una conversación, no como un final. O sea: la historia de usuario ni es una toma de requisitos, ni define lo que tenemos que hacer. Define la necesidad que tenemos que solventar.
 
-El cliente, en el momento de formularla una historia de usuario, no sabe como se va a materializar ese deseo. Es más, es nuestro cliente porque contrata nuestros servicios para construir lo que necesita. Ese es el trabajo del equipo de desarrollo, como veremos.
-
-Tampoco debería ser una colección de ideas que podría ser interesante llevar a cabo en un futuro, una suerte de _mood board_.
+El cliente, en el momento de formular una historia de usuario, no sabe como se va a materializar ese deseo. Es más, es nuestro cliente porque contrata nuestros servicios para construir lo que necesita. Ese es el trabajo del equipo de desarrollo, como veremos.
 
 ## El _Backlog_ según _Scrum_
 
