@@ -84,7 +84,7 @@ Por ejemplo: mantener un solo nivel de indentación en cada bloque de código es
 
 Podemos aplicar las reglas de calistenia en ejercicios de práctica deliberada a fin de educar nuestro sentido del diseño o bien intentar refactorizar nuestro código de producción con ellas como objetivo.
 
-### Acoplamiento vs Cohesión
+### Acoplamiento vs. Cohesión
 
 ### Connascence
 

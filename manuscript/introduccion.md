@@ -10,7 +10,7 @@ Y encima, es un libro con un formato un poco peculiar: una especie de diccionari
 
 La experiencia de trabajar con distintos equipos, negocios, empresas y metodologías, así como el estudio y reflexión sobre las mismas, nos ha llevado a emprender este proyecto un tanto extraño. O posiblemente no tan extraño.
 
-El eje de este libro es que el desarrollo de software no es una actividad aislada, ni en el plano individual, ni en el engranaje empresarial. Posiblemente, la mayor aportación del agilismo haya sido constatar que el desarrollo de software es una actividad fundamentalmente social, algo que ocurre en el contexto de colaboración creativa con un equipo mayor en el que diversas especialidades contribuyen a un fin común.
+El eje de este libro es que el desarrollo de software no es una actividad aislada, ni en el plano individual, ni en el engranaje empresarial. Posiblemente, la mayor aportación del _agilismo_ haya sido constatar que el desarrollo de software es una actividad fundamentalmente social, algo que ocurre en el contexto de colaboración creativa con un equipo mayor en el que diversas especialidades contribuyen a un fin común.
 
 Al margen de los aciertos y errores del movimiento como tal y de las distintas metodologías que se atribuyen o merecen el calificativo de ágiles, pensamos que es necesario que hagamos una reflexión como desarrolladoras. Una reflexión en torno a la forma en que colaboramos y nos implicamos en los proyectos en los que trabajamos.
 

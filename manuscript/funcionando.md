@@ -22,7 +22,7 @@ En ese capítulo no llegamos a mencionar un par de aspectos, así que lo hacemos
 
 Los tests son una forma viva de documentación, que nos habla no solo de como funciona el código, sino también cómo se usa.
 
-En los sistemas distribuidos con comunicación basada en eventos y APIs, es necesario proporcionar documentación.
+En los sistemas distribuidos con comunicación basada en eventos y API, es necesario proporcionar documentación.
 
 En cualquier caso, lo que nos dice este valor del Manifiesto es que nuestro objetivo es poner el software en las manos de las usuarias. Y esto es lo que debería constituir la famosa _Definition of Done_. 
 

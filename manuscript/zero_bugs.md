@@ -32,7 +32,7 @@ Otro ejemplo de defecto puede ser el haber hecho asunciones incorrectas sobre un
 
 Estos defectos suelen detectarlo las usuarias del software, de ahí que muchas veces se habilitan sistemas para que puedan informar de los problemas. Básicamente, se trata de bug-trackers y presentan el riesgo de convertirse en _backlogs de bugs_, que tienen que esperar a ser priorizados para ser atendidos. Exceptuando, tal vez, el caso de que el problema sea tan grande que se prioriza inmediatamente.
 
-Por este motivo, entre otros, frameworks como extreme programming proponen poner al cliente en el propio equipo. Si algo no funciona bien, la pregunta de ¿qué deberíamos estar haciendo? se contesta sola.
+Por este motivo, entre otros, frameworks como extreme programming proponen poner al cliente en el propio equipo. Si algo no funciona bien, la pregunta de ¿qué deberíamos estar haciendo? Se contesta sola.
 
 ### Defectos técnicos
 

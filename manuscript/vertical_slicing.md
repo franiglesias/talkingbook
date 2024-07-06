@@ -23,7 +23,7 @@ En consecuencia pueden producirse algunos efectos indeseados:
 
 Esta aproximación es lo que se conoce como rebanado o slicing horizontal: una prestación o proyecto se divide en componentes o fases que se desarrollan en paralelo y el producto se entrega después de una fase de integración.
 
-Los frameworks ágiles suelen preferir un tipo de rebanado o slicing vertical. En lugar de dividir una prestación o proyecto en componentes, proponen una aproximación distinta basada entregas de valor iterativas e incrementales. En lugar de preguntarse: ¿qué piezas necesito para construir esta funcionalidad?, la cuestión es más bien: ¿qué necesito hacer para entregar al menos una mínima parte de la funcionalidad que aporte valor? Intentaré explicarlo con un ejemplo.
+Los frameworks ágiles suelen preferir un tipo de rebanado o slicing vertical. En lugar de dividir una prestación o proyecto en componentes, proponen una aproximación distinta basada entregas de valor, iterativas e incrementales. En lugar de preguntarse: ¿qué piezas necesito para construir esta funcionalidad?, la cuestión es más bien: ¿qué necesito hacer para entregar al menos una mínima parte de la funcionalidad que aporte valor? Intentaré explicarlo con un ejemplo.
 
 Supongamos que tenemos una tienda de material para modelismo: maquetas, pinturas, herramientas, libros, etc. y queremos vender online. 
 

@@ -20,7 +20,7 @@ Entre los diferentes _frameworks_ ágiles, _Scrum_ prescribe una serie de evento
 * **Revisión del sprint**: se inspecciona lo conseguido en el sprint respecto al producto.
 * **Retrospectiva del sprint**: se planifican formas de mejorar la calidad y la eficacia del trabajo.
 
-¿Echas de menos el **Refinamiento** o _Gromming_? Pues lamento decirte que no es una ceremonia de Scrum, sino un proceso contínuo que se realiza a lo largo del _sprint_ para descomponer y afinar más el trabajo pendiente. La palabra refinamiento solo aparece una vez en la _Guía_ y no precisamente para denominar una ceremonia. Eso sí, existen muchos materiales que la citan como la "quinta ceremonia no oficial" de _Scrum_. Si no es oficial, no es _Scrum_.
+¿Echas de menos el **Refinamiento** o _Grooming_? Pues lamento decirte que no es una ceremonia de Scrum, sino un proceso contínuo que se realiza a lo largo del _sprint_ para descomponer y afinar más el trabajo pendiente. La palabra refinamiento solo aparece una vez en la _Guía_ y no precisamente para denominar una ceremonia. Eso sí, existen muchos materiales que la citan como la "quinta ceremonia no oficial" de _Scrum_. Si no es oficial, no es _Scrum_.
 
 Tampoco existe una ceremonia de **Demostración**. En todo caso, existe la entrega de valor.
 

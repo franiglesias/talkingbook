@@ -31,7 +31,7 @@ Por tanto, los esfuerzos para mejorar esta métrica pueden conducir a varias acc
 * Automatizar la revisión de calidad de código en todo lo que se pueda: linters, análisis estáticos, buena suite de tests, etc.
 * Reducir el tiempo de espera entre que se hace el commit y es revisado, algo que se puede facilitar si las entregas de código son pequeñas y acotadas, de manera que revisarlas sea trivial.
 * Reemplazar la revisión asíncrona de código por metodologías de _pair_ o _mob programming_, que nos permitan eliminar _de facto_ el tiempo de espera por la aprobación de los cambios, sin comprometer la calidad del código. 
-* Aparte de eso, trabajar para optimizar la _pipeline_ de despliegue es otra mejora que puede ayudar. 
+* Aparte de eso, trabajar para optimizar el _pipeline_ de despliegue es otra mejora que puede ayudar. 
 
 **Tasa de fallos de cambio (Change Failure Rate)**. Esta métrica nos habla de las entregas que necesitan ser corregidas tras el despliegue, bien porque se han introducido errores, bien porque han fallado cosas inesperadamente, etc. Lo ideal sería poder desplegar algo y olvidarnos de ello, pero el mundo no funciona así, por lo que una tasa inferior al 15% se considera muy buena.
 
@@ -44,7 +44,7 @@ Obviamente, es una tasa que nos interesa tener lo más baja posible, pero es imp
 
 En general, consideramos esta métrica mirando el tiempo que tardamos en ejecutar un _rollback_, o sea, la restauración del sistema a una versión anterior que sí funcionase. Para esto se pueden utilizar varios sistemas. Uno de los más simples es desplegar esa versión anterior. Un poco más sofisticados, pero realmente rápidos, son aquellos que nos permiten hacer que el sistema apunte a la versión deseada que sigue disponible.
 
-Para poder optimizar el tiempo de restauración, es necesario tomar algunas medidas facilitadoras. Para empezar, implementar sistemas en las _pipelines_ de despliegue que aborten en el caso de que fallen los tests. Si desplegamos cambios en bases de datos, es importante hacerlo de forma que no se rompa inesperadamente. Por ejemplo, si introduces una columna nueva para reemplazar el uso de otra, no elimines esta última en el mismo despliegue hasta tener la seguridad de que funciona.
+Para poder optimizar el tiempo de restauración, es necesario tomar algunas medidas facilitadoras. Para empezar, implementar sistemas en los _pipelines_ de despliegue que aborten en el caso de que fallen los tests. Si desplegamos cambios en bases de datos, es importante hacerlo de forma que no se rompa inesperadamente. Por ejemplo, si introduces una columna nueva para reemplazar el uso de otra, no elimines esta última en el mismo despliegue hasta tener la seguridad de que funciona.
 
 Utilizar herramientas de _feature flags_ nos permite desplegar código y activarlo o desactivarlo rápidamente si detectamos que funciona mal. En ese caso, podemos mantener el código antiguo hasta tener la seguridad de que ya no se está usando. En general, trabajar como si estuviésemos haciendo _Trunk Based Development_ nos puede ayudar a reducir riesgos en los despliegues.
 

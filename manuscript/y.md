@@ -1,6 +1,6 @@
 #  Y... todas las demás personas
 
-No nos engañemos. Sigue estando vigente el estereotipo de las programadoras como personas solitarias, resolviendo complejos problemas mientras teclean febrilmente en un ordenador. Pero es un estereotipo,y la realidad, como casi siempre, es mucho más interesante.
+No nos engañemos. Sigue estando vigente el estereotipo de las programadoras como personas solitarias, resolviendo complejos problemas mientras teclean febrilmente en un ordenador. Pero es un estereotipo, y la realidad, como casi siempre, es mucho más interesante.
 
 También tenemos otro tópico, más frecuente por desgracia, en la que los equipos de desarrollo son vistos, y se ven a sí mismos, como meros ejecutores, sin voz ni voto, de las decisiones de negocio.
 
@@ -20,7 +20,7 @@ Todo este proceso requiere negociaciones y discusiones. No basta con descubrir u
 
 Desde el punto de vista de un equipo de desarrollo cada prestación nueva puede requerir un distinto tipo de esfuerzo. En muchos casos, una prestación implica básicamente añadir el código necesario para ponerla en manos de sus potenciales usuarias. Otras veces, requiere realizar cambios significativos en la infraestructura que le da soporte. O iniciar un sistema nuevo. O el cambio nos pide reestructurar equipos y proyectos.
 
-Por supuesto, todos estos elementos, y muchos más, entran en juego en la negociación. El equipo de desarrollo no puede hacer lo que le venga en gana, ni el equipo de negocio puede esperar que sus peticiones se conviertan en realidad tal cual las imaginan. En realidad, no debería darse una separación estanca como la que refleja el fragmento anterior. En su lugar, es necesario desarrollar una relación colaborativa.
+Por supuesto, todos estos elementos, y muchos más, entran en juego en la negociación. El equipo de desarrollo no puede hacer lo que le venga en gana, ni el equipo de negocios puede esperar que sus peticiones se conviertan en realidad tal cual las imaginan. En realidad, no debería darse una separación estanca como la que refleja el fragmento anterior. En su lugar, es necesario desarrollar una relación colaborativa.
 
 Esto es por lo que el Manifiesto Ágil habla de colaboración, y no de contratos, o se usan términos como cocreación, asociación productiva o descubrimiento conjunto, en sus diversas revisiones críticas.
 
@@ -32,4 +32,4 @@ Los equipos de desarrollo deben conocer el negocio y deben conocer los productos
 
 Por su parte, el resto de la empresa tiene que entender la tecnología y como contribuye al desarrollo del negocio, lo que incluye también sus limitaciones y procesos. Porque la tecnología también incluye riesgos, deudas, costes y aporta valor.
 
-¿Tiene sentido mantener una distinción entre equipos de tecnología y equipos de negocio?
+¿Tiene sentido mantener una distinción entre equipos de tecnología y equipos de negocios?
