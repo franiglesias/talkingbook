@@ -1,6 +1,6 @@
 # K de Kanban
 
-Kanban es el framework Agile que probablemente no sabes que estás usando. O bueno, al menos es casi seguro que estarás usando uno de sus artefactos característicos: el tablero Kanban. La metodología nació en Toyota, creada a finales de los años 40 del siglo XX por el ingeniero Taiichi Ōno, como parte de la gestión de stocks. Básicamente, se trataba de sincronizar la producción con la demanda real.
+Kanban es el framework Agile que probablemente no sabes que estás usando. O bueno, al menos es casi seguro que estarás usando uno de sus artefactos característicos: el tablero Kanban. La metodología nació en Toyota, creada a finales de los años 40 del siglo XX por el ingeniero Taiichi Ōno, como parte de la gestión de stocks. Básicamente, se trataba de sincronizar la producción con la demanda real, dentro del Toyota Production System, del cual también nació Lean Software Development.
 
 Este modelo se ha aplicado como metodología para la gestión de proyectos de desarrollo de software.
 
@@ -26,6 +26,6 @@ Para algunas personas limitar el trabajo en progreso puede parecer contra produc
 * **Subordinar**: Asegurar que otros procesos puedan contribuir a reducir el cuello de botella.
 * **Elevar**: Hacer cambios en el sistema para eliminar o reducir la limitación.
 
-En muchos equipos que se quedan atascados en un proyecto, nos hemos encontrado con que se quejan de que les falta tiempo o que tienen que atender múltiples focos. Ambas señales apuntan a un problema de gestión del trabajo en curso.
+En muchos equipos que se quedan atascados en un proyecto, nos hemos encontrado con que se quejan de que les falta tiempo o que tienen que atender múltiples focos. Ambas señales apuntan a un problema de gestión del trabajo en curso. Cuando examinamos sus Kanbans lo que vemos son columnas que contienen muchos más _work items_ de los que el equipo puede ocuparse con su capacidad.
 
-
+Cuando ocurre esto es como 100 personas tratando de pasar por la misma puerta. Cuando lo hacen de una en una, tardan muy poquito tiempo. Pero cuando intentan hacerlo todas la vez, emplearán mucho más tiempo y muy probablemente se harán daño.
