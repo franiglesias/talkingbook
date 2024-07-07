@@ -2,7 +2,7 @@
 
 Las prácticas técnicas ágiles son una de las grandes olvidadas en los equipos de tecnología. "¿Y qué eso?", preguntarán muchas personas.
 
-Las prácticas técnicas ágiles son un conjunto de destrezas y procedimientos que se aplican en el proceso de desarrollo de software y cuyo objetivo es mejorarlo en todas sus fases. Hay que tener que en los equipos de desarrollo ágiles, las fases de diseño, especificación, implementación, pruebas y mantenimiento, se condensan en un espacio de tiempo y en un ámbito muy delimitado del proyecto: la historia de usuario, e incluso se pueden superponer en el tiempo.
+Las prácticas técnicas ágiles son un conjunto de destrezas y procedimientos que se aplican en el proceso de desarrollo de software y cuyo objetivo es mejorarlo en todas sus fases. Hay que tener en cuenta que en los equipos de desarrollo ágiles, las fases de diseño, especificación, implementación, pruebas y mantenimiento, se condensan en un espacio de tiempo y en un ámbito muy delimitado del proyecto: la historia de usuario, e incluso se pueden superponer en el tiempo.
 
 Las prácticas técnicas nos permiten realizar una aproximación intencionada y metódica al desarrollo de software. La programación se percibe a veces como el producto de una especie de inspiración y, sin embargo, es necesario cultivar una serie de técnicas mediante las cuales escribir software de una forma eficiente.
 

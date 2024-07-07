@@ -39,8 +39,6 @@ Por lo general, el resultado de usarlo para estos fines es un _backlog_ enorme, 
 
 Una práctica sana con un _backlog_ es eliminar entradas. Así, por ejemplo, si un item no ha entrado en los últimos dos _sprints_ debería descartarse, incluso habiendo sido refinado: si nadie echa de menos esa prestación ¿para qué preocuparse por ella?. Por supuesto, el tope de dos _sprints_ es totalmente arbitrario, podría ser uno solo.
 
-Ya puedo escuchar los gritos de horror: _Pero si a lo mejor es una buena idea_. Lo que pasa es que hay otras cosas que han sido más importantes y, por tanto, se han priorizado por encima de esa. Pues la respuesta que tengo es: si realmente es algo que aporta valor volverá en algún momento. Pero mientras tanto, no dejes que engorde tu _backlog_ hasta el punto de que no se pueda mover. Bueno, tengo que confesar que la respuesta no es mía, sino de Allen Holub.
-
-Un _backlog_ así deja de ser el registro de necesidades que nuestro producto podría llenar para convertirse en una especie de mochila llena de "por si acasos". O más bien una colección de inseguridades.
+Ya puedo escuchar los gritos de horror: _Pero si a lo mejor es una buena idea_. Lo que pasa es que hay otras cosas que han sido más importantes y, por tanto, se han priorizado por encima de esa. Pues la respuesta que tengo es: si realmente es algo que aporta valor volverá en algún momento. Esto es algo que los equipos _Lean_ suelen hacer: mantener un _backlog_ muy actualizado, eliminando cualquier cosa que no se haya movido en el último mes.
 
 Steve Jobs decía que para mantener el foco hay que decir no a muchas cosas, pero sobre todo a muchas buenas ideas. La moraleja de esta frase es precisamente que lo importante es identificar lo que tendríamos que estar haciendo ahora mismo. No lo que podríamos llegar a hacer algún día.

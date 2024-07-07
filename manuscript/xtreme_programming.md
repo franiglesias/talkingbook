@@ -26,4 +26,6 @@ Posiblemente, sea el énfasis en las prácticas técnicas lo que hace resaltar l
 
 **Integración contínua**, ayuda a mantener una alta velocidad de desarrollo al eliminar los cuellos de botella provocados por conflictos cuando se están desarrollando diferentes partes del código en paralelo. Cuanto antes integramos los cambios, menos posibilidades hay de conflictos, más fácil es reutilizar soluciones, etc. Si los cambios son pequeños, se reduce tanto el riesgo de defectos como el riesgo de conflictos. En consecuencia, son necesarias menos acciones de mantenimiento. Y en caso de que aparezcan problemas, son más fáciles de diagnosticar.
 
+**Spikes**. En XP los spikes son experimentos en código para tratar de valor la incertidumbre asociada a una solución. Esto es, se prueban ideas para tratar de anticipar su coste y las dificultades de implementación. Cuando se han obtenido conclusiones, se tira ese código y se hace la implementación real. 
+
 _Extreme programming_ pone el acento en que no es posible un desarrollo ágil de software sin incidir en estas prácticas técnicas. Un _framework_ ágil, sea cual sea, no puede obviar la excelencia técnica como requisito para lograr la entrega sostenida de valor

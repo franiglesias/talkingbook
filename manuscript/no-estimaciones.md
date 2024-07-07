@@ -1,4 +1,4 @@
-# N de No-Estimaciones
+# N de No Estimar
 
 La estimación sobre el coste de desarrollo de una feature o historia de usuario es uno de los temas que genera más discusiones en nuestro sector.
 
@@ -11,12 +11,12 @@ A la hora de decidir desarrollar una funcionalidad en el software tenemos que so
 
 Siendo sincero, no he visto demasiada literatura acerca de cómo estimar o cuantificar la aportación de valor de una prestación del software. En ese sentido, creo que podríamos estar de acuerdo en algunos parámetros de la misma:
 
-* Aporta una capacidad que antes no existía
-* Reduce el tiempo necesario para ejecutar un proceso de negocio
-* Potencialmente, permite generar una cierta cantidad de ingresos
-* Potencialmente, permite ahorrar una cierta cantidad en gastos
+* Aporta una capacidad que antes no existía.
+* Reduce el tiempo necesario para ejecutar un proceso de negocio.
+* Potencialmente, permite generar una cierta cantidad de ingresos.
+* Potencialmente, permite ahorrar una cierta cantidad en gastos.
 
-Digo "potencialmente" en cuando a la generación de ingresos o al ahorro de gastos porque eso se basa en suposiciones: que las usuarias están interesadas en la prestación, que los clientes pagarán por ella, que incrementará las ventas, etc.
+Digo "potencialmente" en cuanto a la generación de ingresos o al ahorro de gastos porque eso se basa en suposiciones: que las usuarias están interesadas en la prestación, que los clientes pagarán por ella, que incrementará las ventas, etc.
 
 En conclusión, el valor de una prestación también es una estimación que debería basarse en un análisis racional. Algo más elaborado que "el cliente/usuario lo quiere". Para estas cosas los equipos tienen analistas de negocio y, si me apuras, product owners que entienden ese mercado y sus necesidades.
 
@@ -36,6 +36,8 @@ Reducir el nivel de incertidumbre es el camino a seguir, pero no es fácil. No s
 
 Si llegamos a este tipo de fraccionamiento, es relativamente fácil predecir hasta donde vamos a llegar en un período de tiempo dado.
 
+Otra forma de estimar el coste de desarrollo es mediante _spikes_ o experimentos de código en los que probamos posibles soluciones de forma rápida y no tan rigurosa como la implementación final. El objetivo es entender lo que hay que hacer y, consecuentemente, hacerse una idea de lo costoso que podría ser.
+
 ## La relación entre valor y coste
 
 Ron Jeffreys representa el valor como la altura de un rectángulo y el coste como su anchura. De este modo, los rectángulos _verticales_ indicarían una prestación que aporta mucho valor con poco esfuerzo. Por el contrario, los rectángulos _horizontales_ nos estarían diciendo que el coste de desarrollo es muy alto con relación al valor que nos aporta.
@@ -44,13 +46,11 @@ Pero también nos dice que la situación óptima es cuando podemos desarrollar p
 
 Esto nos proporciona un criterio relativamente sencillo para tomar decisiones sobre el desarrollo:
 
-* Priorizar la entrega de valor aunque sea en unidades pequeñas pero visibles
-* En lugar de introducir tareas de alto coste, partirlas hasta descomponerlas en entregas de valor pequeñas pero de bajo coste
+* Priorizar la entrega de valor aunque sea en unidades pequeñas pero visibles.
+* En lugar de introducir tareas de alto coste, partirlas hasta descomponerlas en entregas de valor pequeñas pero de bajo coste.
 
 ## Puntos de historia
 
-Estimar es, literalmente, timar. Los puntos de historia para estimar el esfuerzo de una tarea se inventaron justamente para _timar_ a los managers y no darles estimaciones de tiempo. El objetivo era tratar de librar a los equipos de desarrollo de la presión de los plazos de entrega.
+Estimar es, literalmente, timar. Los puntos de historia para estimar el esfuerzo de una tarea se inventaron justamente para _timar_ a los managers y no darles estimaciones de tiempo. El objetivo era tratar de librar a los equipos de desarrollo de la presión de los plazos de entrega. Obviamente, enseguida se buscó una traducción entre punto de historia y unidad de tiempo, así como diferentes escalas y rangos de puntos. En último término, muchos equipos eliminaron las estimaciones, al haberse convertido en poco más que en una superstición.
 
-
-
-
+¿Es necesario un cierto grado de predictibilidad de la entrega de software? Por supuesto. Pero en lugar de desgastarse adivinando lo que nos costará realizar cualquier historia de usuario o tarea, es mejor aprender a definir entregas de valor lo bastante bien delimitadas como para poder ponerlas en producción en un tiempo predecible y corto. 
