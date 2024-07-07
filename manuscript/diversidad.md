@@ -13,6 +13,8 @@ Gracias a eso, contamos con muchas mujeres referentes en el campo, que realizaro
 
 Posteriormente, la profesión fue llenándose de varones hasta el punto de que la representación de mujeres alcanzó mínimos históricos. Hoy por hoy, dependiendo de las áreas, las cifras van mejorando, pero aún estamos lejos de un equilibrio.
 
+Si vamos a eso, el Manifiesto Ágil es una buena ilustración: ni una sola persona que no fuese un varón blanco de entorno anglosajón.
+
 Sin embargo, diversidad no es solo una cuestión de representación masculina frente a femenina, aunque sea un tema fundamental. También tenemos un problema de diversidad relacionado con otras características demográficas como la etnicidad o la edad, y por supuesto con la diversidad física e intelectual. Quizá lo más correcto sería hablar de la sobre-representación de un grupo socio-demográfico muy específico: varones blancos y relativamente jóvenes.
 
 Es interesante pensar en las consecuencias de la falta de diversidad y cómo afrontarlo desde nuestras posiciones en la industria. 

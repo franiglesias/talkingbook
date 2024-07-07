@@ -3,13 +3,13 @@ agile.md
 backlog.md
 ceremonias.md
 equipo.md
-funcionando.md
+feedback.md
 greenfield.md
 historias_de_usuario.md
 incertidumbre.md
 j.md
 kanban.md
-loops.md
+lean.md
 manifiesto.md
 no-estimaciones.md
 ownership.md
