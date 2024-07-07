@@ -108,7 +108,7 @@ La implementación que se describe en el patrón no es una receta, sino una guí
 
 Se han identificado infinidad de patrones, que se pueden clasificar en:
 
-* Creacionales: nos ayudan a resolver problemas en la creación de objetos.
+* De creación: nos ayudan a resolver problemas en la creación de objetos.
 * Comportamentales: nos ayudan a resolver problemas en la comunicación entre objetos.
 * Estructurales: reducir la complejidad del diseño de objetos mediante la composición.
 
