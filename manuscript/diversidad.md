@@ -37,7 +37,7 @@ También tenemos que hablar de los procesos de selección. Puede que consigas ca
 
 Una crítica habitual a este tipo de propuestas es la de decir que se pretende seleccionar a una persona por ser mujer (o mayor de 40, o racializada...), no por su capacidad o mérito técnico, sino por cumplir una cuota. Y la respuesta es un no rotundo: lo que se busca es una persona que tenga la capacidad y mérito técnico requeridos y que, además, pertenezca a uno de estos colectivos.
 
-Lo más sangrante, y desde un punto de vista bastante pragmático, es que varios estudios han mostrado las ventajas de trabajar con equipos diversos. En pocas palabras: las empresas que favorecen la diversidad e inclusión en sus equipos tienden a conseguir más beneficios. Al fin y al cabo, el mercado es diverso por naturaleza. Pero si lo miras con los ojos de un equipo uniforme puede que no sepas abordar esa diversidad, y tus productos o servicios no alcanzarán todo ese mercado potencial, sino el de los consumidores que se parezcan... a ti, mercado que puede ser un bastante más pequeño de lo deseable.
+Lo más sangrante, y desde un punto de vista bastante pragmático, es que varios estudios han mostrado las ventajas de trabajar con equipos diversos. En pocas palabras: las empresas que favorecen la diversidad e inclusión en sus equipos tienden a conseguir más beneficios. Al fin y al cabo, el mercado es diverso por naturaleza. Pero si lo miras con los ojos de un equipo uniforme puede que no sepas abordar esa diversidad, y tus productos o servicios no alcanzarán todo ese mercado potencial, sino el de los consumidores que se parezcan... a ti, un mercado que puede ser bastante más pequeño de lo deseable.
 
 ## Uniformidad y endogamia
 

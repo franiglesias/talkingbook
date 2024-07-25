@@ -8,7 +8,7 @@ El modelo _agilista_ cuestiona la gestión de proyectos basada en etapas separad
 * Pruebas
 * Mantenimiento
 
-La fase de pruebas es la que solemos asociar a Quality Assurance y al personal dedicado a testing. Pero esto es una simplificación. Sin embargo, ilustra un problema que es frecuente en el mundo de desarrollo de software: el peligro de los compartimentos estancos entre distintas especialidades en el proyecto.
+La fase de pruebas es la que solemos asociar a _Quality Assurance_ y al personal dedicado a testing. Pero esto es una simplificación. Sin embargo, ilustra un problema que es frecuente en el mundo de desarrollo de software: el peligro de los compartimentos estancos entre distintas especialidades en el proyecto.
 
 El cambio que proponen los frameworks ágiles al respecto de estas fases las resitúa. El proyecto se considera un trabajo iterativo e incremental, donde cada incremento de valor se completa integrando todas las fases entre ellas, pero sobre un ámbito muy pequeño. Existe toma de requisitos, pero se prefiere expresarla mediante tests. Existe una fase de diseño, que se ejecuta antes y durante el desarrollo. Por supuesto, existe la fase de implementación. Y la de mantenimiento es permanente durante la vida del proyecto. ¿Y las pruebas? Por supuesto, también están presentes, pero no queremos que exista una fase que detenga la entrega de valor.
 

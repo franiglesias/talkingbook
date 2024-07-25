@@ -1,12 +1,12 @@
 # P de Prácticas Técnicas
 
-Las prácticas técnicas ágiles son una de las grandes olvidadas en los equipos de tecnología. "¿Y qué eso?", preguntarán muchas personas.
+Las prácticas técnicas ágiles son una de las grandes olvidadas en los equipos de tecnología. "¿Y qué es eso?", preguntarán muchas personas.
 
 Las prácticas técnicas ágiles son un conjunto de destrezas y procedimientos que se aplican en el proceso de desarrollo de software y cuyo objetivo es mejorarlo en todas sus fases. Hay que tener en cuenta que en los equipos de desarrollo ágiles, las fases de diseño, especificación, implementación, pruebas y mantenimiento, se condensan en un espacio de tiempo y en un ámbito muy delimitado del proyecto: la historia de usuario, e incluso se pueden superponer en el tiempo.
 
 Las prácticas técnicas nos permiten realizar una aproximación intencionada y metódica al desarrollo de software. La programación se percibe a veces como el producto de una especie de inspiración y, sin embargo, es necesario cultivar una serie de técnicas mediante las cuales escribir software de una forma eficiente.
 
-Pedro Moreira Santos, Marco Consolaro y Alessandro Di Gioia, en su libro Agile Technical Practices Distilled, señalan cuatro prácticas técnicas fundamentales: TDD, pair programming, refactoring y diseño simple.
+Pedro Moreira Santos, Marco Consolaro y Alessandro Di Gioia, en su libro _Agile Technical Practices Distilled_, señalan cuatro prácticas técnicas fundamentales: TDD, pair programming, refactoring y diseño simple.
 
 ## Pair programming
 
@@ -25,11 +25,11 @@ Existen varios formatos de trabajo en pair programming y técnicas para repartir
 
 Las sesiones de pair programming pueden ser bastante fatigosas por lo que es importante utilizar herramientas para delimitar el tiempo y tener descansos. Para ello, la técnica Pomodoro puede ser muy útil.
 
-Mob programming es un concepto similar, pero en lugar de ser dos personas, puede participar todo el equipo. Incluso personas externas si puede resultar útil. Las personas pueden entrar y salir de la sesión de mob programming libremente y contribuir a la discusión, mientras que alguien se encarga de escribir el código.
+_Mob programming_ es un concepto similar, pero en lugar de ser dos personas, puede participar todo el equipo. Incluso personas externas si puede resultar útil. Las personas pueden entrar y salir de la sesión de _mob programming_ libremente y contribuir a la discusión, mientras que alguien se encarga de escribir el código.
 
 ## Test Driven Development
 
-Test Driven Development (TDD) es una práctica técnica en la que definimos las especificaciones de un software mediante tests creados a partir de ejemplos del comportamiento deseado. El código de producción se escribe con el objetivo de hacer pasar esos tests.
+_Test Driven Development (TDD)_ es una práctica técnica en la que definimos las especificaciones de un software mediante tests creados a partir de ejemplos del comportamiento deseado. El código de producción se escribe con el objetivo de hacer pasar esos tests.
 
 Para empezar, escribimos una lista de todos los elementos de funcionalidad que queremos conseguir. Esta lista no es definitiva, pues podríamos darnos cuenta tanto de nuevas necesidades durante el desarrollo, como descubrir que algunas no las necesitamos, o al menos no como las habíamos definido.
 
@@ -41,22 +41,22 @@ Una vez que hemos hecho pasar el último test, podemos revisar el código de pro
 
 Cada vez que introducimos código de producción para hacer pasar un test, debemos evitar que los tests anteriores fallen. De este modo, nos aseguramos de mantener la funcionalidad que ya hubiésemos conseguido implementar.
 
-Cuando tenemos todos los tests pasando, podemos aplicar técnicas de refactoring a fin de mejorar la organización o diseño del código de producción.
+Cuando tenemos todos los tests pasando, podemos aplicar técnicas de _refactoring_ a fin de mejorar la organización o diseño del código de producción.
 
-Es importante no confundir Test Driven Development con Test de Quality Assurance. Ambas disciplinas usan las mismas herramientas, pero sus objetivos son diferentes. Sin embargo, el software escrito con TDD aporta varias cosas. Entre ellas:
+Es importante no confundir _Test Driven Development_ con _Test de Quality Assurance_. Ambas disciplinas usan las mismas herramientas, pero sus objetivos son diferentes. Sin embargo, el software escrito con TDD aporta varias cosas. Entre ellas:
 
 * Una batería de tests de regresión, que será útil en QA, aunque no todos los test de TDD son significativos para QA.
 * Un diseño de software más fácil de poner bajo tests.
 
 ## Refactoring
 
-Refactoring es un término muy abusado, que se aplica a cualquier proceso en el que cambiamos o reescribimos software. Pero en el ámbito de las prácticas técnicas ágiles, refactoring es un conjunto de técnicas que nos permite transformar el diseño de un código sin afectar a su comportamiento. El refactoring contribuye al buen diseño, el cual, a su vez, favorece la sostenibilidad a largo plazo del software y reduce el coste del cambio futuro.
+_Refactoring_ es un término muy abusado, que se aplica a cualquier proceso en el que cambiamos o reescribimos software. Pero en el ámbito de las prácticas técnicas ágiles, _refactoring_ es un conjunto de técnicas que nos permite transformar el diseño de un código sin afectar a su comportamiento. El refactoring contribuye al buen diseño, el cual, a su vez, favorece la sostenibilidad a largo plazo del software y reduce el coste del cambio futuro.
 
 Las técnicas de refactoring nos permiten cambiar un código sin interrumpir su funcionamiento ni detener su desarrollo. Una forma de asegurar esto, es tener tests que cubran la parte de código modificado. Un refactoring correctamente aplicado no hará fallar los tests en ningún momento.
 
-De hecho, los mejores entornos de desarrollo incluyen numerosas herramientas que automatizan algunas de las técnicas específicas. Esto garantiza que los cambios sean inocuos y no afectan al comportamiento de tal modo que ni siquiera necesitaríamos verificarlo con tests. A este tipo de refactors se les suele llamar provable refactors, porque se ha verificado que aplicados correctamente no alteran la funcionalidad del software.
+De hecho, los mejores entornos de desarrollo incluyen numerosas herramientas que automatizan algunas de las técnicas específicas. Esto garantiza que los cambios sean inocuos y no afectan al comportamiento de tal modo que ni siquiera necesitaríamos verificarlo con tests. A este tipo de refactors se les suele llamar _provable refactors_, porque se ha verificado que aplicados correctamente no alteran la funcionalidad del software.
 
-Los refactors son los cambios específicos que podemos aplicar. Pueden ser tan simples como cambiar el nombre de un símbolo en el código, como una variable o una función; o tan complejos como convertir una estructura condicional en un conjunto de objetos polimórficos.
+Los _refactors_ son los cambios específicos que podemos aplicar. Pueden ser tan simples como cambiar el nombre de un símbolo en el código, como una variable o una función; o tan complejos como convertir una estructura condicional en un conjunto de objetos polimórficos.
 
 Para aplicar refactor es importante aprender a identificar señales en el código que nos indiquen un problema potencial de diseño. A estas señales las denominamos _code smells_. Los _code smells_ no son errores, pues el software no funciona mal, sino patrones de código que nos indicarían que algo podría tener un mejor diseño o que, llegado el momento, podría ser costoso entenderlo o cambiarlo.
 
@@ -69,7 +69,7 @@ Las prácticas técnicas anteriores no sirven de mucho si no entendemos el dise�
 * Pasa sus tests: hace lo que dice.
 * Minimiza la duplicación: define una fuente de verdad para cada pieza de funcionalidad.
 * Maximiza la claridad: dice lo que hace.
-* Usa la menor cantidad de elementos posibles: reduce 
+* Usa la menor cantidad de elementos posibles: reduce la complejidad accidental.
 
 ### Calistenia
 
@@ -91,12 +91,12 @@ Podemos aplicar las reglas de calistenia en ejercicios de práctica deliberada a
 El término Connascence intenta unificar las ideas de acoplamiento y cohesión de una forma más sistemática. Se dice que dos o más elementos de un sistema de software son _connascentes_ si el cambio de un elemento conlleva el cambio de otros. Tiene tres dimensiones:
 
 * Grado: es la cantidad de elementos que tienen que cambiar simultáneamente, cuanto más reducido más aceptable.
-* Localidad: es la cercanía entre los elementos que cambian. Así, por ejemplo, sería aceptable si los elementos cambian el ámbito de una función, pero no sí cambian entre distintas entidades
+* Localidad: es la cercanía entre los elementos que cambian. Así, por ejemplo, sería aceptable si los elementos cambian el ámbito de una función, pero no si cambian entre distintas entidades.
 * Fuerza: se refiere a la probabilidad de necesitar cambios en los elementos _connascentes_ y el esfuerzo que supone.
 
 ### Patrones
 
-Los patrones de diseño describen problemas comunes del desarrollo de software junto con soluciones probadas. Por supuesto, aquí hay que citar el libro fundacional de The Gang of Four.
+Los patrones de diseño describen problemas comunes del desarrollo de software junto con soluciones probadas. Por supuesto, aquí hay que citar el libro fundacional de _The Gang of Four_.
 
 Es muy importante tener presente que un patrón de diseño no es una receta para aplicar ciegamente. El patrón tiene dos elementos y no tiene sentido que tengamos en cuenta uno solo de ellos.
 
@@ -110,7 +110,7 @@ Se han identificado infinidad de patrones, que se pueden clasificar en:
 
 * De creación: nos ayudan a resolver problemas en la creación de objetos.
 * Comportamentales: nos ayudan a resolver problemas en la comunicación entre objetos.
-* Estructurales: reducir la complejidad del diseño de objetos mediante la composición.
+* Estructurales: reducen la complejidad del diseño de objetos mediante la composición.
 
 ### Principios
 

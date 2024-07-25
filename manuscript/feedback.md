@@ -16,9 +16,9 @@ Cada nueva iteración se alimenta del feedback obtenido por la anterior, proporc
 
 ## Feedback loops
 
-En general, los frameworks ágiles abrazan la idea de _feedback loop_ de una manera u otra. Scrum, por ejemplo, usa el sprint como la unidad de tiempo en la que se realiza una entrega o incremento y se obtiene feedback.
+En general, los frameworks ágiles abrazan la idea de _feedback loop_ de una manera u otra. _Scrum_, por ejemplo, usa el sprint como la unidad de tiempo en la que se realiza una entrega o incremento y se obtiene feedback.
 
-Pero si hay un framework que haya profundizado en la idea del bucle es Extreme Programming. Los bucles de feedback están definidos por el contexto en que se producen y están insertos en la propia forma de trabajar propuesta. En XP los ciclos de feedback comienzan en el mismo momento de escribir código:
+Pero si hay un _framework_ que haya profundizado en la idea del bucle es _Extreme Programming_. Los bucles de feedback están definidos por el contexto en que se producen y están insertos en la propia forma de trabajar propuesta. En XP los ciclos de feedback comienzan en el mismo momento de escribir código:
 
 * Puesto que XP promueve el uso de Test Driven Development, el primer ciclo de feedback nos lo proporciona el ciclo de TDD, que nos dice si estamos escribiendo el código necesario para hacer pasar el test que, a su vez, define el pequeño incremento de funcionalidad que estamos buscando. Este feedback es inmediato.
 * Otra práctica técnica de XP es _Pair-programming_, en el que se produce creación y revisión colaborativa de código. Cada persona de la pareja propone ideas y las discuten inmediatamente, obteniendo feedback en segundos: ¿es una buena solución para este problema? ¿Es un patrón que nos brindará flexibilidad para cambios en el futuro? ¿O, en cambio, esconde un problema potencial?
