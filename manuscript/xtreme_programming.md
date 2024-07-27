@@ -4,7 +4,7 @@ Entre los diferentes _frameworks_ de los que se nutrió el Manifiesto Ágil, _Ex
 
 _Kanban_ o _Scrum_, siendo también metodologías ágiles, podría decirse que están más orientadas a la gestión de proyectos en general. De hecho el Kanban que usamos en desarrollo de software es una adaptación de un proceso industrial. 
 
-Puedes aplicar ambas metodologías en entornos distintos a la programación y, de hecho, es relativamente habitual ver como equipos de otras áreas de una empresa adoptan alguna de estas metodologías. Además, encajan bastante bien con estructuras organizativas con una cierta jerarquía y que buscan definir procesos, algo que satisface a algunas visiones más tradicionales de la dirección de proyectos. 
+Puedes aplicar ambas metodologías en entornos distintos a la programación y, de hecho, es relativamente habitual ver como equipos de otras áreas de una empresa adoptan alguna de ellas. Además, encajan bastante bien con estructuras organizativas con una cierta jerarquía y que buscan definir procesos, algo que satisface a algunas visiones más tradicionales de la dirección de proyectos. 
 
 La gran difusión de _Scrum_, para qué nos vamos a engañar, es gracias a que permite un cierto grado de supervisión a las capas de _management_, lo que resulta tranquilizador para estas, aunque puede redundar, precisamente, en una pérdida de agilidad.
 
@@ -12,13 +12,13 @@ _Extreme programming_, por su parte, nace específicamente para equipos de desar
 
 Un aspecto llamativo de _Extreme Programming_ es que no postula una guía de procedimientos al estilo de _Scrum_, sino que habla de Actividades, Valores y Prácticas. También usa el concepto de _Whole Team_, que debería resultar obvio: todo el equipo contribuye al proyecto.
 
-Así todo, si observamos ambas metodologías de forma superficial podríamos encontrar muchas similitudes. En ambas se busca un desarrollo iterativo e incremental, existe una planificación de lo que debe hacerse, se persigue entrega de valor y se reflexiona sobre el proceso seguido para mejorarlo. Es cuando profundizamos cuando encontramos las diferencias.
+Así todo, observando ambas metodologías de forma superficial podríamos encontrar muchas similitudes. En las dos se busca un desarrollo iterativo e incremental, existe una planificación de lo que debe hacerse, se persigue entrega de valor y se reflexiona sobre el proceso seguido para mejorarlo. Es cuando profundizamos cuando encontramos las diferencias.
 
-La gran mayoría de veces los equipos que se autodefinen como ágiles utilizan una mezcla de elementos de _Scrum_ y de _Extreme Programming_, lo que puede resultar confuso. _Scrum_ pone foco en un proceso bastante reglamentado, con roles y momentos definidos, algo en lo que _Extreme Programming_ no pone tanto acento. _Scrum_ es más _management friendly_.
+La gran mayoría de veces los equipos que se autodefinen como ágiles utilizan una mezcla de elementos de _Scrum_ y de _Extreme Programming_, lo que puede resultar confuso. _Scrum_ pone foco en un proceso bastante reglamentado, con roles y momentos definidos, algo en lo que _Extreme Programming_ no pone tanto acento. Pero _Scrum_ es más _management friendly_, y tiene una guía de implementación muy precisa.
 
 Así, por ejemplo, _Scrum_ tiende a favorecer una aproximación al desarrollo basada en tareas y en la distribución de la carga de trabajo para alcanzar el objetivo previsto en el _sprint_ o plazo de la iteración. _Extreme programming_ prefiere trabajar a partir de las _Historias de Usuario_, y el equipo se organiza para contribuir a completarlas, haciendo uso de diferentes prácticas técnicas. Estas prácticas buscan generar software de calidad de forma sostenida y sostenible.
 
-Posiblemente, sea el énfasis en las prácticas técnicas lo que hace resaltar las diferencias. Ambos frameworks giran en torno a definir qué hacer, por qué y cuándo, pero solo Extreme Programming enfatiza el cómo. Para ello, propone un conjunto de prácticas que, de alguna manera, materializan eso. Veamos algunos ejemplos:
+Posiblemente, sea el énfasis en las prácticas técnicas lo que hace resaltar las diferencias. Ambos frameworks giran en torno a definir qué hacer, por qué y cuándo, pero solo _Extreme Programming_ enfatiza el cómo. Para ello, propone un conjunto de prácticas que, de alguna manera, materializan eso. Veamos algunos ejemplos:
 
 **Test Driven Development** hace describir los requisitos de una historia de usuario con una representación formal y ejecutable (tests) que nos permiten saber, en todo momento, si estamos desarrollando el software que deseamos, pues proporciona _feedback_ inmediato. Además, define el límite de lo que es necesario desarrollar, contribuyendo a reducir la cantidad de trabajo en progreso.
 

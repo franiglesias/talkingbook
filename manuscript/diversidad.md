@@ -46,7 +46,3 @@ La falta de diversidad en los equipos genera un problema de endogamia que perjud
 Esta endogamia también hace que los perfiles divergentes o discrepantes tengan más problemas de adaptación y facilita que, con el tiempo, prefieran buscar su futuro en otra parte. Recuerda que la cultura de un equipo y, en general de una empresa, son las personas que mantienes y las que dejas marchar. De hecho, la endogamia puede matar el talento. Ya puedes contratar a la mejor programadora del mundo, que si la pones en un equipo endogámico mediocre sin tomar otras medidas, el equipo no va a mejorar su rendimiento o su calidad. Lo más seguro es que en pocos meses esa persona esté trabajando para otra empresa. Y eso en el mejor de los casos.
 
 Por su parte, los equipos que cuentan con perfiles diversos, con procedencias y experiencias vitales distintas, podrían ser más abiertos a explorar ideas innovadoras, o al menos a considerar más puntos de vista al analizar una situación. La existencia de diversidad en un equipo aumenta la conciencia de la diversidad en el mundo en general, lo que lo habilita precisamente para entender mejor el mercado al que se dirige. En estos equipos, lo normal es tener ideas diferentes y debatirlas.
-
-https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/why-diversity-matters
-
-https://www.forbes.com/sites/geristengel/2016/04/13/is-change-in-the-wind-for-women-entrepreneurs-raising-capital/#3d6e2d315eaf

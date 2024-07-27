@@ -4,7 +4,7 @@ WIP es el acrónimo en inglés de Trabajo en Progreso o _Work In Progress_. El t
 
 La gestión del WIP es fundamental en un equipo ágil o de alto rendimiento, porque es uno de los factores que determina la capacidad de entrega. Y, por lo general, la gestión del WIP consiste en limitarlo y reducirlo lo máximo posible.
 
-Esto puede sonar un poco anti intuitivo, ya que puede parecer que si somos capaces de trabajar en varias cosas a la vez en paralelo, deberíamos poder acabarlas todas más o menos a la vez. Así que un equipo de _n_ personas, podría abordar _n_ proyectos o tareas simultáneas. Decimos que su capacidad es de _n_. Lo razonable, entonces, sería que un equipo en un momento dado limita su trabajo en progreso a _n_ ítems o tareas.
+Esto puede sonar un poco anti intuitivo, parece que si somos capaces de trabajar en varias cosas a la vez en paralelo, deberíamos poder acabarlas todas más o menos a la vez. Así que un equipo de _n_ personas, podría abordar _n_ proyectos o tareas simultáneas. Decimos que su capacidad es de _n_. Lo razonable, entonces, sería que un equipo en un momento dado limita su trabajo en progreso a _n_ ítems o tareas.
 
 Sin embargo, muchas veces resulta que las cuentas no acaban de salir. Por ejemplo, si un equipo está formado por cinco desarrolladoras, se asume que su capacidad es de cinco tareas simultáneas y su límite de trabajo en progreso sería de cinco ítems. Todo cuadra perfectamente, ¿verdad? Pues, no.
 
@@ -12,7 +12,7 @@ Sin embargo, muchas veces resulta que las cuentas no acaban de salir. Por ejempl
 
 Resulta que una de las desarrolladoras es la manager del equipo, por lo que entre sus funciones están participar en reuniones de coordinación con otros _managers_, las reuniones de seguimiento de las personas a su cargo y otras tareas asociadas a su rol. Su posibilidad de aportar al flujo de trabajo está reducida, asi que si asume tareas del equipo lo normal es que siempre lleve retraso o no las pueda realizar. Eso sin contar, que frecuentemente tiene que resolver dudas y preguntas del resto del equipo por cuestiones técnicas o de negocio.
 
-En consecuencia, sería mucho más realista asumir que la capacidad y el límite del WIP del equipo es cuatro. También es importante tener en cuenta la capacidad efectiva. Por ejemplo, si una persona en junior o muy nueva en el equipo es posible que no tenga aún autonomía para completar tareas por sí misma. En ese caso, quizá deberíamos plantearnos que esta persona trabaje siempre junto con otra de más experiencia, de tal forma que la capacidad del equipo sería tres, al igual que el límite del WIP.
+En consecuencia, sería mucho más realista asumir que la capacidad y el límite del WIP del equipo es cuatro. También es importante tener en cuenta la capacidad efectiva. Por ejemplo, si una persona en junior o muy nueva en el equipo es posible que no tenga aún autonomía para completar tareas por sí misma. En ese caso, quizá deberíamos plantearnos que esta persona trabaje siempre junto con otra de más experiencia, de tal forma que la capacidad del equipo sería tres, y consecuentemente el límite del WIP.
 
 Bueno, esto parece solucionar el problema. Pero... No tan deprisa.
 
@@ -49,11 +49,11 @@ En este caso, el límite de WIP podría ser de dos historias de usuario simultá
 
 Lo curioso del asunto es que la historia que acabamos de describir abarca seis tareas. ¿No es algo contradictorio? Resulta que reduciendo el WIP podríamos tener más productividad.
 
-Esto se explica por varias razones. Por un lado, la historia de usuario proporciona un contexto único durante toda la iteración para las desarrolladoras participantes. No tienen que cambiar entre contextos, no tienen que entender como encaja cada tarea en cada momento. De hecho, puede que desarrollen una compresión de la historia de usuario que les permita hacer una partición conveniente de las tareas.
+Esto se explica por varias razones. Por un lado, la historia de usuario proporciona un contexto único durante toda la iteración para las desarrolladoras participantes. No tienen que cambiar entre contextos, no tienen que entender como encaja cada tarea en cada momento. De hecho, puede que desarrollen una compresión de la historia de usuario que les permita hacer una partición más conveniente de las tareas.
 
 Los bloqueos entre tareas son más fáciles de prevenir, evitar o gestionar. Por ejemplo, si la tarea implica frontend y backend, pueden acordarse contratos de las API que expone el backend, de tal forma que el frontend puede trabajar con stubs, o incluso tirando peticiones contra endpoints "tontos", mientras el backend se ocupa de otros elementos. Gracias a esto es posible paralelizar el desarrollo.
 
-Lo que ocurre es que cuando distribuimos las personas del equipo para trabajar en historias de usuario, lo que estamos haciendo en crear equipos enfocados (_task force_) que tienen un objetivo claro y un límite del WIP igual a uno. Si es necesario añadir personas, el límite de WIP se mantiene igual. Pero solo podemos añadir personas hasta un punto en que no se molesten.
+Lo que ocurre es que cuando distribuimos las personas del equipo para trabajar en historias de usuario, lo que estamos haciendo se parece a crear equipos enfocados (_task force_) que tienen un objetivo claro y un límite del WIP igual a uno. Si es necesario añadir personas, el límite de WIP se mantiene igual. Pero solo podemos añadir personas hasta un punto en que no se molesten.
 
 Es importante coordinar el límite del WIP con la definición de objetivos. Si tenemos varias historias de usuario en una iteración, una de ellas tiene que ser la prioritaria y tenemos que asignarle todos los recursos que admita para que se pueda entregar en esa iteración.
 
