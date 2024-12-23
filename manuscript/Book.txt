@@ -2,6 +2,7 @@ introduccion.md
 agile.md
 backlog.md
 ceremonias.md
+diversidad.md
 equipo.md
 feedback.md
 greenfield.md
